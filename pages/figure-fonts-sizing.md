@@ -1,7 +1,5 @@
 # Brief advice on figures: fonts, sizing, dimensions, linewidth etc. 
 
-> This tries to satisfy figure requirements for most common journals.
-
 ---
 
 ## TL;DR: “universal” defaults
@@ -26,77 +24,15 @@ Work in vector graphics programs (Inkscape, Adobe Illustrator).
 
 - **Color**  
   - Work in **RGB** while designing (journals or production will convert to CMYK if needed).  
-  - Avoid **red–green** combinations; use color-blind–friendly palettes and make plots interpretable in grayscale (line types, symbols, not just color).
 
-- **Resolution (if rasterized)**  
-  - **≥ 300 dpi** for photos / microscopy images.  
-  - **≥ 600 dpi** for mixed images (photo + labels).  
-  - **≥ 1200 dpi** for pure line art (if not kept as vector).  
-  - Prefer **vector formats** (PDF/EPS/SVG) for graphs and schematics.
-
-- **Figure dimensions (rough, page-layout friendly)**  
-  - **Single-column figure:**  
-    - Width ≈ **8.5–9 cm**; height up to ~**12–18 cm** (avoid extreme tallness).  
-  - **Double-column / full-width figure:**  
-    - Width ≈ **17–18 cm**; height up to ~**18–22 cm**.  
+- **Figure dimensions (rough)**  
   - In very short:  
     - **Full figure:** full page width, about **half page height**.  
     - **One-column figure:** half page width, about **half page height**.
 
-- **General hygiene**  
-  - Use **scale bars** (not just magnification).  
-  - Keep **panel spacing tight but clear**.  
-  - Don’t put full legends inside the figure; keep detailed explanations in the caption.
-
 ---
 
-## Journals / publishers this is meant to cover
-
-**Nature Portfolio**
-
-- *Nature*  
-- *Nature Genetics*  
-- *Nature Biotechnology*  
-- *Nature Methods*  
-- *Nature Cell Biology*  
-- *Nature Structural & Molecular Biology*  
-- *Nature Microbiology*  
-- *Nature Medicine*  
-- *Nature Neuroscience*  
-- *Nature Immunology*  
-- *Nature Communications*
-
-**Cell Press**
-
-- *Cell*  
-- *Molecular Cell*  
-- *Developmental Cell*  
-- *Cell Stem Cell*  
-- *Cell Systems*  
-- *Cell Reports*
-
-**AAAS**
-
-- *Science*  
-- *Science Advances*
-
-**EMBO Press**
-
-- *The EMBO Journal*  
-- *Molecular Systems Biology*
-
-**CSHL Press**
-
-- *Genes & Development*  
-- *RNA*
-
-**eLife**
-
-- *eLife* (Biology)
-
----
-
-## Condensed origin of these defaults (very simplified)
+## Condensed origin
 
 This table is *not* a full spec; it just shows why the defaults above are “safe” across families.
 
