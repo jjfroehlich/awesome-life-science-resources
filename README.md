@@ -18,18 +18,6 @@
 - [Collections of resources](#collections-of-resources)
 - [Contribute](#contribute)
 
-### Legend
-
-- ⏱️ X min – approximate reading time (240 wpm).
-- 🧵 thread 
-- 📄 article
-- 📑 article (.pdf)
-- 📘 book
-- 📚 collection of articles
-- 🎥 video
-- 🎙️ podcast
-- 🧰 tool
-
 
 
 ## Work Culture & Management
@@ -62,8 +50,8 @@
   About narcissistic personalities in science.
 - `22 min` | 📑 | **[One hundred research rules of the game](https://www.emerald.com/aaaj/article-pdf/32/2/691/11751/aaaj-02-2019-032.pdf)**
   100 "rules" for making your research "world class".
-- `26 min` | 📚 | **[Advice for Graduate Students: The Stearns-Huey-Witz Series](https://stearnslab.yale.edu/modest-advice)**
-  Three connected essays, with some truths and insights into thinking of older generations: Stearns' original **[Modest Advice ('87)](https://stearnslab.yale.edu/modest-advice)**, Huey's **[Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581)**, and Witz's **[Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf)**.
+- `26 min` | 📚 | **[Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice)** **[Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581)** **[Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf)**
+  Three connected essays, with some truths and insights into thinking of older generations.
 - `60+min` | 📚 | **[How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)**
   Collection of articles for a healthy research environment.
 
@@ -521,7 +509,16 @@ _No resources yet – suggestions welcome!_
 - `60+min` | 📚 | **[CommKit – Nuclear Science and Engineering](https://mitcommlab.mit.edu/nse/commkit/)**
   Collection of guides on communicating technical information in written, oral, and visual formats to a range of audiences.
 
-
+## Legend
+- `X min` – approximate reading time (240 wpm).
+- 🧵 thread 
+- 📄 article
+- 📑 article (.pdf)
+- 📘 book
+- 📚 collection of articles
+- 🎥 video
+- 🎙️ podcast
+- 🧰 tool
 
 ## Contribute
 [Contributions are welcome!](contributing.md)
