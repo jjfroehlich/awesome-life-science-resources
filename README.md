@@ -18,6 +18,17 @@
 - [Collections of resources](#collections-of-resources)
 - [Contribute](#contribute)
 
+### Legend
+- `X min` – reading time (average reader - 240 words per minute).
+- 🧵 thread 
+- 📄 article
+- 📑 article (direct link to pdf)
+- 📘 book
+- 📚 collection of articles
+- 🎥 video
+- 🎙️ podcast
+- 🧰 tool
+
 
 
 ## Work Culture & Management
@@ -509,16 +520,7 @@ _No resources yet – suggestions welcome!_
 - `60+min` | 📚 | **[CommKit – Nuclear Science and Engineering](https://mitcommlab.mit.edu/nse/commkit/)**
   Collection of guides on communicating technical information in written, oral, and visual formats to a range of audiences.
 
-## Legend
-- `X min` – approximate reading time (240 wpm).
-- 🧵 thread 
-- 📄 article
-- 📑 article (.pdf)
-- 📘 book
-- 📚 collection of articles
-- 🎥 video
-- 🎙️ podcast
-- 🧰 tool
+
 
 ## Contribute
 [Contributions are welcome!](contributing.md)
