@@ -122,7 +122,7 @@
 - `60+min` | 📚 | **[Lab Management Guides](https://www.bwfund.org/career-tools/?career_tool_type=lab-management-guides)**
   Two lab management guides "Making the Right Moves" and "Focus – Excellence Everywhere"
 - `  ----  ` | 🧰 | **[Nice research group websites](pages/research-group-websites.md)**
-  A collection of nice research group websites.
+  A collection of nice research group websites, some also have statements on work culture, values, or open science.
 
 ### Lab manual
 - `04 min` | 📄 | **[The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w)**
