@@ -25,5 +25,3 @@ No additional restrictions:
 This license applies only to the original content in this repository
 (e.g. descriptions, structure, and metadata of the list).
 The linked external resources keep their own licenses and terms of use.
-
-Copyright © 2025 Jonathan J. Froehlich
