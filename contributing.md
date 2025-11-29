@@ -1,18 +1,16 @@
-# Contributing to Awesome Life Science Resources
+# Contributing
 
-Thank you for your interest in contributing! 🎉  
-
-We welcome additions that improve and grow this curated collection of high-quality resources for life scientists.
+Thank you! 🎉  
 
 ## What We're Looking For
 
-- Content that’s relevant to the topics in this Awesome List.
+- Content that’s relevant to the topics in this Awesome List or to extend it.
 - Useful articles, frameworks, tools, or other resources.
 - Respectful discussion, thoughtful suggestions, and constructive feedback. 
 
 ## Quick Option
 
-If contributing via Git feels like too much right now, you can **write me at <https://bsky.app/profile/jjfroehlich.bsky.social>** with your suggestion and I’ll consider adding it.
+If contributing via Git is too much for you, **please write me at <https://bsky.app/profile/jjfroehlich.bsky.social>** with your suggestions and I’ll consider adding it.
 
 ## Contribution Guidelines
 
@@ -26,9 +24,8 @@ If contributing via Git feels like too much right now, you can **write me at <ht
        - `  One-sentence description.`
    - Use the appropriate icon:
      - 🧵 thread · 📄 article · 📑 article (.pdf) · 📘 book · 📚 collection · 🎥 video · 🎙️ podcast · 🧰 tool
-   - **Do not add authors/sources** in the main line (they were removed to keep the list compact).
    - Add the estimated reading time using a word counter
-     (e.g. https://quizard.io/tools/word-counter, “Average Reader – 238–240 words per minute”).
+     (https://quizard.io/tools/word-counter, “Average Reader – 238–240 words per minute”).
    - Round to whole minutes and keep the style consistent:
      - `01 min`, `09 min`, `17 min`, `60+min`, or `  ----  ` for tools with no reading time.
    - Keep entries **sorted by estimated reading time** within each subsection.
@@ -61,7 +58,7 @@ Before you submit, please ensure:
 
 For discussions, suggestions, or feedback:
 
-- Open an issue on GitHub, **and/or**
+- Open an issue on GitHub, **or**
 - Contact me via <https://bsky.app/profile/jjfroehlich.bsky.social>.
 
 Please keep your tone respectful and constructive.

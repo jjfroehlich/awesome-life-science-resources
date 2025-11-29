@@ -1,6 +1,6 @@
 # Awesome Life Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences. 
+> An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences. This can be improved so please [contribute](contributing.md).
 
 
 
@@ -49,6 +49,8 @@
   Experimental design and hypothesis-falsifying or inconclusive results. 
 - `09 min` | 📄 | **[Health tips for research groups](https://www.nature.com/articles/d41586-018-05146-5)**
   Things that institutional and laboratory leaders could do to make science more productive, rigorous and happy.
+- `09 min` | 📄 | **[How Diversity Makes Us Smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)**
+  How socially diverse teams fuel creativity, better decisions, and higher-impact science.
 - `10 min` | 📄 | **[How lab heads can learn to lead](https://www.nature.com/articles/d41586-018-05156-3)**
   Leadership experts translate business and coaching principles into advice for PIs on running healthier, more effective and supportive research groups.
 - `11 min` | 📄 | **[The Thrill of Defeat](https://web.archive.org/web/20240914025143/https://nautil.us/the-thrill-of-defeat-235312/)**
@@ -67,6 +69,8 @@
   100 "rules" for making your research "world class".
 - `26 min` | 📚 | **[Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice)** **[Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581)** **[Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf)**
   Three connected essays, with some truths and insights into thinking of older generations.
+- `60+min` | 📚 | **[Diversity in Academia](https://diversityinacademia.mystrikingly.com/)**
+  Hub collecting research, media, and practical guides on diversity in academia.
 - `60+min` | 📚 | **[How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)**
   Collection of articles for a healthy research environment.
 
@@ -77,6 +81,8 @@
   How a different mindset can benefit everyone.
 - `05 min` | 📑 | **[Mentorship Malpractice](https://faculty.uwmedicine.org/wp-content/uploads/2024/09/Mentorship-Malpractice-JAMA-2016.pdf)**
   Some stereotypes in bad mentorship and coping strategies. 
+- `07 min` | 📄 | **[Ten simple rules for developing a mentor–mentee expectations document](https://doi.org/10.1371/journal.pcbi.1005709)**
+  Expectations document that clarifies lab culture, roles, boundaries, and day-to-day rules.
 - `08 min` | 📑 | **[Landis Mentoring Award Letter](https://github.com/bernardosabatini/writings/blob/main/Sabatini%20Landis%20Award.pdf)**
   Thoughts on which principles could help to be a good mentor. 
 - `09 min` | 📄 | **[On being an advisor to today’s junior scientists](https://doi.org/10.1073/pnas.1704511114)**
@@ -107,24 +113,32 @@
   "Night science is where we explore the unstructured realm of possible hypotheses, of ideas not yet fully fleshed out".
 - `60+min` | 🎙️ | **[Night Science Podcast series](https://nightscience.buzzsprout.com/1744020)**
   Where do ideas come from? Each episode explores science's creative side with a leading colleague.
+- `120 min`| 🎥 | **[Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR)**  
+  Course on choosing good research questions, planning projects, and setting goals as a grad student or postdoc.
 
 ### Leading a research group
 - `08 min` | 📄 | **[How to create a lab-group logo that stands out from the crowd](https://www.nature.com/articles/d41586-023-02358-2)**
   An eye-catching logo says a lot about your lab’s research, workplace culture and collaborative potential. Take time to get it right.
 - `18 min` | 📄 | **[Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)**
   Ten tricky steps on becoming a research group leader. 
+- `18 min` | 📄 | **[Becoming a Principal Investigator](https://doi.org/10.1016/j.neuron.2019.08.023)**
+  Defining lab culture, strategic planning, recruiting and supporting trainees, and fostering inclusion.
 - `31 min` | 📄 | **[Setting Up and Managing a Lab at a Research-Intensive Institution](https://bmcproc.biomedcentral.com/articles/10.1186/s12919-021-00214-7)**
   Tips for new group leaders: identifying space and equipment needs, negotiating the hiring package, outfitting the lab with supplies, building a team, and learning to manage time.
 - `47 min` | 📄 | **[State of the lab](https://www.evocellnet.com/search/label/state%20of%20the%20lab)**
   Almost yearly blog post series on running a research lab in academia. Starting as junior group (EMBL-EBI) and moving to more consolidated position (ETH Zurich). 
 - `50 min` | 📑 | **[Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf)**
   Which postdocs and technicians to hire.
+- `60+min` | 📑 | **[Tips for running your own research group](https://cms.wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)**
+  Guide for transitioning to independence, covering lab setup, funding, hiring and mentoring, time management, etc. 
 - `60+min` | 📘 | **[Making the Right Moves](http://www.hhmi.org/developing-scientists/making-right-moves)**
   200+ pages with advice on management, lab organization, mentorship. One chapter about applying for faculty positions. 
 - `60+min` | 📚 | **[Lab Management Guides](https://www.bwfund.org/career-tools/?career_tool_type=lab-management-guides)**
   Two lab management guides "Making the Right Moves" and "Focus – Excellence Everywhere"
-- `  ----  ` | 🧰 | **[Nice research group websites](pages/research-group-websites.md)**
-  A collection of nice research group websites, some also have statements on work culture, values, or open science.
+- `  ----  ` | 🧰 | **[Example group websites](pages/research-group-websites.md)**
+  A collection of research group websites, some also with statements on work culture, values, or open science.
+
+
 
 ### Lab manual
 - `04 min` | 📄 | **[The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w)**
@@ -133,6 +147,8 @@
   How a good lab handbook can improve your team's science and save time. Includes a meta handbook with twenty common topics.
 - `10 min` | 📄 | **[Research Culture: Why every lab needs a handbook](https://elifesciences.org/articles/88853)**
   A good lab handbook will benefit all the members of a research group, by explaining how a lab works, outlining what is expected of everyone, and describing the culture the lab is aiming for.
+- `17 min` | 📄 | **[The SAFE Labs Handbook as a tool for improving lab culture](https://doi.org/10.7554/eLife.108853)**
+  Community-driven “SAFE Labs” handbook with 30 concrete, documented commitments any PI can adopt.
 - `32 min` | 📘 | **[Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/)**
   Strategies behind how Duolingo builds their company, culture, and brand. Key principles and how they apply them to hiring, design, engineering...
 
@@ -161,8 +177,13 @@
 - `21 min` | 📄 | **[How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)**
   A guide for young scientists on how to select a graduate advisor or postdoctoral advisor.
 
-### Finding a PhD candidate position
-_No resources yet – suggestions welcome!_
+### Finding a PhD position
+- `60+min` | 📚 | **[Awesome Grad School](https://github.com/poloclub/awesome-grad-school)**
+  Advice and guidebook for thriving and surviving Ph.D. and graduate school.
+- `60+min` | 📚 | **[Awesome PhD](https://github.com/edwinsamar/awesome-phd)**
+  Advice, tips and resources to prepare for PhD/grad school.
+- `60+min` | 📚 | **[Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)**
+  Advice for prospective and current PhD students.
 
 ### Finding a postdoc position
 - `06 min` | 📄 | **[Finding a lab to do your postdoc](https://docs.google.com/document/d/1-eXl9t95pzH0kZThYVSqxCOAqLkQSxgbZuSfeJmM2kc/edit)**
@@ -171,6 +192,8 @@ _No resources yet – suggestions welcome!_
   How to choose a lab and apply for postdoc positions.
 - `50 min` | 📑 | **[Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf)**
   Covering two perspectives: of a postdoc ("Part II: Choosing the best postdoctoral position", 10 min) and of the hiring group leader.
+- `120 min`| 🎥 | **[The Strategic Postdoc](https://www.ibiology.org/the_strategic_postdoc/)**
+  Video course on planning, finding, and negotiating a postdoc that fits your needs and career goals.
 
 ### Finding a group leader position
 - `02 min` | 🧵 | **[10 tips for academic (faculty) job application](https://twitter-thread.com/t/1395019187928641541)**
@@ -250,12 +273,13 @@ _No resources yet – suggestions welcome!_
   A full book to making visualizations that accurately reflect the data, tell a story, and look professional. 
 - `  ----  ` | 🧰 | **[Color Oracle Software](https://colororacle.org/)**
   Free color blindness simulator for Windows, Mac and Linux
+- `  ----  ` | 🧰 | **[Figures: fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md)**
+  Figure parameters to satisfy most journals.  
 - `  ----  ` | 🧰 | **[Find the graphic you need](https://www.data-to-viz.com/)**
   Classification of all possible chart types classified following the input data format.
 - `  ----  ` | 🧰 | **[The Data Visualisation Catalogue](https://datavizcatalogue.com/)**
   Guide and library of different data visualization techniques.
-- `  ----  ` | 🧰 | **[Figures: fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md)**
-  Figure parameters (fonts, sizing, dimensions, linewidth) to satisfy most journals.  
+
 
 ### Specific plots
 - `02 min` | 📄 | **[Showing distributions (Box/Dot/Violin)](https://thenode.biologists.com/distribution_plots/education/)**
@@ -348,6 +372,8 @@ _No resources yet – suggestions welcome!_
 ### Chalk talks
 - `06 min` | 📄 | **[Chalk talks: how to avoid 10 pitfalls](https://sociobiology.wordpress.com/2016/10/11/chalk-talks-how-to-avoid-10-pitfalls/)**
   What a chalk talk is and how to give a good one. 
+- `06 min` | 📄 | **[How to give a successful chalk talk for academic job interviews](https://docs.google.com/document/d/1bP33LSfYlb2NmqCS8oYlAfxo5y6VPVnqcbLeMzf7y7s/edit)**
+  How to plan and deliver an engaging chalk talk. 
 
 ### Poster
 - `05 min` | 📄 | **[Poster](https://mitcommlab.mit.edu/broad/commkit/poster/)**
@@ -408,6 +434,8 @@ _No resources yet – suggestions welcome!_
   Concise checklist on structuring, wording, and visualizing scientific papers.
 - `09 min` | 📄 | **[Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)**
   Ten practical rules on planning, structuring, and polishing research papers.
+- `12 min` | 📄 | **[Some Tips for Writing Science](https://doi.org/10.1523/ENEURO.0497-22.2022)**
+  Advice for each section including for structuring the results paragraphs and sentences.
 - `17 min` | 📄 | **[Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)**
   Advice on how to structure papers and what to focus on. 
 - `18 min` | 📄 | **[Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)**
@@ -505,22 +533,46 @@ _No resources yet – suggestions welcome!_
   What you have to do when reviewing a publication. 
 - `11 min` | 📄 | **[The 6 “Be's” to Success](https://doi.org/10.1373/clinchem.2013.208280)**
   Framework for writing reviews that are structured, specific, constructive, and respectful. 
+- `11 min` | 📑 | **[COPE Ethical Guidelines for Peer Reviewers](https://publicationethics.org/media/237/download?attachment)**
+  Guidance on ethical, confidential, unbiased peer review.
 - `24 min` | 📄 | **[Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://doi.org/10.7554/eLife.48175)**
   Frequent statistical errors, with concrete guidance on how to detect and fix them.
 - `60+min` | 📚 | **[Peer Review Toolbox](https://plos.org/resources/for-reviewers)**
   Best practices and tips to build your scientific peer review skillset.
 
+
+
 ### Response to reviewers
+- `05 min` | 📄 | **[How to prepare an article for resubmission](https://clauswilke.com/blog/2014/11/16/how-to-prepare-an-article-for-resubmission/)**
+  Handling major revisions and writing the response letter.
 - `08 min` | 📄 | **[Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)**
   "Ten rules" on how to write responses to reviewers.
 
 
 
 ## Collections of resources
+- `60+min` | 📘 | **[Science Communication - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)**
+  Communicate effectively—covering papers, emails and CVs, talks, posters, conferences, and classroom teaching.
+- `60+min` | 📘 | **[Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science)**
+  Practical, concrete how-to guides for talks, writing, reviewing, figures, reproducibility, and everyday doing-science skills.
+- `60+min` | 📘 | **[Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/)**
+  Scientific writing, publishing, grants, and broader academic career skills from grad school to funding and jobs.
+- `60+min` | 📚 | **[Awesome Grad School](https://github.com/poloclub/awesome-grad-school)**
+  Advice and guidebook for thriving and surviving Ph.D. and graduate school.
+- `60+min` | 📚 | **[Awesome PhD](https://github.com/edwinsamar/awesome-phd)**
+  Advice, tips and resources to prepare for PhD/grad school.
+- `60+min` | 📚 | **[Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)**
+  Advice for prospective and current PhD students.
 - `60+min` | 📚 | **[CommKit – Broad Institute](https://mitcommlab.mit.edu/broad/use-the-commkit/)**
   Collection of guides on communicating technical information in written, oral, and visual formats to a range of audiences.
 - `60+min` | 📚 | **[CommKit – Nuclear Science and Engineering](https://mitcommlab.mit.edu/nse/commkit/)**
   Collection of guides on communicating technical information in written, oral, and visual formats to a range of audiences.
+- `60+min` | 📚 | **[CommKit – Biological Engineering](https://mitcommlab.mit.edu/be/use-the-commkit/)**
+  Collection of guides on communicating technical information in written, oral, and visual formats to a range of audiences.
+- `60+min` | 📚 | **[Help, I'm a Scientist!](https://helpimascientist.com/)**
+  A resource by scientists who've been in your shoes.
+- `60+min` | 📚 | **[Ten Simple Rules - PLOS](https://collections.plos.org/collection/ten-simple-rules/)**
+  Collection of “Ten Simple Rules” articles on careers, collaboration, communication, data, software, and more.
 
 
 

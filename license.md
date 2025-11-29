@@ -4,6 +4,14 @@ Except where otherwise noted, the content of this repository
 (**Awesome Life Science Resources**) is licensed under the
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+---
+
+This license applies only to the original content in this repository
+(e.g. descriptions, structure, and metadata of the list).
+The linked external resources obviously keep their own licenses and terms of use.
+
+---
+
 You are free to:
 
 - **Share** – copy and redistribute the material in any medium or format.
@@ -21,7 +29,3 @@ No additional restrictions:
   from doing anything the license permits.
 
 ---
-
-This license applies only to the original content in this repository
-(e.g. descriptions, structure, and metadata of the list).
-The linked external resources keep their own licenses and terms of use.
