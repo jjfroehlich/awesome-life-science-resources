@@ -551,11 +551,11 @@
 
 
 ## Collections of resources
-- `60+min` | 📘 | **[Science Communication - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)**
+- `60+min` | 📚 | **[Science Communication - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)**
   Communicate effectively—covering papers, emails and CVs, talks, posters, conferences, and classroom teaching.
-- `60+min` | 📘 | **[Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science)**
+- `60+min` | 📚 | **[Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science)**
   Practical, concrete how-to guides for talks, writing, reviewing, figures, reproducibility, and everyday doing-science skills.
-- `60+min` | 📘 | **[Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/)**
+- `60+min` | 📚 | **[Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/)**
   Scientific writing, publishing, grants, and broader academic career skills from grad school to funding and jobs.
 - `60+min` | 📚 | **[Awesome Grad School](https://github.com/poloclub/awesome-grad-school)**
   Advice and guidebook for thriving and surviving Ph.D. and graduate school.
