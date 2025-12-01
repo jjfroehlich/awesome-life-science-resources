@@ -33,8 +33,6 @@
 
 ## Work Culture & Management
 ### General
-- `01 min` | 📄 | **[What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)**
-  Some notes about leading an organization.
 - `03 min` | 📄 | **[It matters who does science](https://www.science.org/content/blog-post/it-matters-who-does-science)**
   About seeing scientists as people and about diversity. 
 - `05 min` | 🧵 | **[The Tao of Cheese](https://twitter-thread.com/t/1432654418437095431)**
