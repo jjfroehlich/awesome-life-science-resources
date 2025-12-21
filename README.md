@@ -6,16 +6,60 @@
 
 ## Contents
 
+- [Legend](#legend)
+
 - [Work Culture & Management](#work-culture--management)
-- [Career](#career)
-- [Data Visualization](#data-visualization)
+  - [General](#general)
+  - [Mentoring](#mentoring)
+  - [Finding good projects](#finding-good-projects)
+  - [Leading a research group](#leading-a-research-group)
+  - [Lab manual](#lab-manual)
+
+- [Data visualization](#data-visualization)
+  - [General](#general-1)
+  - [Specific plots](#specific-plots)
+
 - [Communicate your science](#communicate-your-science)
+  - [Presentations](#presentations)
+  - [Elevator pitch](#elevator-pitch)
+  - [Chalk talks](#chalk-talks)
+  - [Poster](#poster)
+
 - [Reading the literature](#reading-the-literature)
+  - [General](#general-2)
+
 - [Writing a paper](#writing-a-paper)
+  - [General](#general-3)
+  - [Abstract](#abstract)
+  - [Figure legends](#figure-legends)
+  - [Authorship](#authorship)
+
 - [Writing a thesis](#writing-a-thesis)
+  - [General](#general-4)
+  - [Intro](#intro)
+  - [Discussion](#discussion)
+  - [Conclusion](#conclusion)
+  - [Acknowledgements](#acknowledgements)
+
 - [Writing a grant](#writing-a-grant)
+
 - [Publishing](#publishing)
+  - [General](#general-5)
+  - [Peer reviewing](#peer-reviewing)
+  - [Response to reviewers](#response-to-reviewers)
+
+- [Career](#career)
+  - [Career paths](#career-paths)
+  - [Choosing an advisor](#choosing-an-advisor)
+  - [Finding a PhD position](#finding-a-phd-position)
+  - [Finding a postdoc position](#finding-a-postdoc-position)
+  - [Finding a group leader position](#finding-a-group-leader-position)
+  - [Curriculum Vitae or Resume](#curriculum-vitae-or-resume)
+  - [Get in contact](#get-in-contact)
+  - [Collections](#collections)
+
 - [Collections of resources](#collections-of-resources)
+
 - [Contribute](#contribute)
 
 ### Legend
@@ -138,8 +182,6 @@
 - `  ----  ` | 🧰 | **[Example group websites](pages/research-group-websites.md)**
   A collection of research group websites, some also with statements on work culture, values, or open science.
 
-
-
 ### Lab manual
 - `04 min` | 📄 | **[The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w)**
   A well-crafted lab manual with guidelines and advice can save time, reassure trainees and promote a positive lab culture.
@@ -151,91 +193,6 @@
   Community-driven “SAFE Labs” handbook with 30 concrete, documented commitments any PI can adopt.
 - `32 min` | 📘 | **[Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/)**
   Strategies behind how Duolingo builds their company, culture, and brand. Key principles and how they apply them to hiring, design, engineering...
-
-
-
-## Career
-### Career paths
-- `02 min` | 🧵 | **[What’s it like working in biotech](https://twitter-thread.com/t/1398329690268577801)**
-  Some observations on the industry and differences to academia. 
-- `05 min` | 📄 | **[Career Options for Scientists](http://cshperspectives.cshlp.org/content/9/9/a032755.full)**
-  Career choices outside of academia.
-- `14 min` | 📄 | **[What your PI forgot to tell you: why you actually might want a job running a research lab](http://www.molbiolcell.org/content/28/13/1724.full)**
-  Why being a PI can be a desirable job, conversation between two group leaders.
-- `20 min` | 📄 | **[Job-Seq: The Lowest Throughput Sequencing Technology](https://olgabotvinnik.com/blog/job-seq-the-lowest-throughput-sequencing-technology/)**
-  Blog post about the job search after PhD. 
-- `30 min` | 📄 | **[Postdocs’ advice on pursuing a research career in academia: A qualitative analysis of free-text survey responses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662)**
-  Summary of a survey of postdocs on "Life in Academia and Strategies for Success", US-centric. 
-- `60+min` | 📚 | **[The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170)**
-  Collection of articles on transitioning from academia to industry, covering for instance: why you should, application, interviewing, salary negotiation, and expectations. 
-
-### Choosing an advisor
-- `04 min` | 📄 | **[Choosing a Good Mentor for Scientists](https://blog.addgene.org/choosing-a-good-mentor-for-scientists)**
-  Advice for choosing an advisor for a PhD or postdoctoral lab.
-- `07 min` | 📄 | **[Toxic academic mentors](https://tenureshewrote.wordpress.com/2013/08/12/toxic-academic-mentors/)**
-  How academic bullying looks in practice, how to cope and how to avoid it in the first place.
-- `21 min` | 📄 | **[How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)**
-  A guide for young scientists on how to select a graduate advisor or postdoctoral advisor.
-
-### Finding a PhD position
-- `60+min` | 📚 | **[Awesome Grad School](https://github.com/poloclub/awesome-grad-school)**
-  Advice and guidebook for thriving and surviving Ph.D. and graduate school.
-- `60+min` | 📚 | **[Awesome PhD](https://github.com/edwinsamar/awesome-phd)**
-  Advice, tips and resources to prepare for PhD/grad school.
-- `60+min` | 📚 | **[Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)**
-  Advice for prospective and current PhD students.
-
-### Finding a postdoc position
-- `06 min` | 📄 | **[Finding a lab to do your postdoc](https://docs.google.com/document/d/1-eXl9t95pzH0kZThYVSqxCOAqLkQSxgbZuSfeJmM2kc/edit)**
-  How to approach postdoc applications, perspective from a group leader. 
-- `25 min` | 📄 | **[How to find, apply for, and choose a postdoc](https://ubadahsabbagh.com/guide-to-postdoc.php)**
-  How to choose a lab and apply for postdoc positions.
-- `50 min` | 📑 | **[Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf)**
-  Covering two perspectives: of a postdoc ("Part II: Choosing the best postdoctoral position", 10 min) and of the hiring group leader.
-- `120 min`| 🎥 | **[The Strategic Postdoc](https://www.ibiology.org/the_strategic_postdoc/)**
-  Video course on planning, finding, and negotiating a postdoc that fits your needs and career goals.
-
-### Finding a group leader position
-- `02 min` | 🧵 | **[10 tips for academic (faculty) job application](https://twitter-thread.com/t/1395019187928641541)**
-  A few brief points to consider when applying for faculty position. 
-- `07 min` | 📄 | **[Tips for Getting a Faculty Position](https://blog.addgene.org/tips-for-getting-a-faculty-position?)**
-  Tips on getting a faculty position. 
-- `20 min` | 📄 | **[Tips for negotiating salary and startup for newly-hired tenure-track faculty](https://dynamicecology.wordpress.com/2017/03/01/tips-for-negotiating-salary-and-startup-for-newly-hired-tenure-track-faculty/)**
-  Advice and resources for negotiating salary and startup funds. 
-- `25 min` | 📄 | **[Tips for Young Scientists on the Junior Faculty/Independent Investigator Job Search](http://www.cell.com/neuron/fulltext/S0896-6273(17)30096-X)**
-  Advice on how to get faculty position.
-- `60+min` | 📑 | **[Obtaining a Faculty Position in the Biomedical Sciences](https://blog.addgene.org/hubfs/Getting%20a%20Faculty%20Position%203.4.pdf)**
-  Advice on getting a faculty position including all the steps of the process in detail. 
-
-### CV/Resume
-- `02 min` | 📄 | **[Tricks to maintain & share a CV with Google Docs](https://carpenter-singh-lab.broadinstitute.org/blog/tricks-for-maintaining-your-cv-resume-with-google-docs-easy-to-edit-immediately-published)**
-  Tricks for maintaining a shareable CV/Resume with Google Docs.
-- `03 min` | 📄 | **[CVs](https://capd.mit.edu/resources/cvs/)**
-  CV format, sections and headings.
-- `04 min` | 📄 | **[CV/Resume](http://mitcommlab.mit.edu/broad/commkit/cvresume/)**
-  Advice on CV/resume.
-- `07 min` | 📄 | **[CV/Resume](https://mitcommlab.mit.edu/nse/commkit/cvresume/)**
-  Advice on CV/resume.
-- `09 min` | 📄 | **[Rules of the Academic CV](https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/)**
-  Expected content of an academic CV. 
-- `12 min` | 📑 | **[CVs and Cover Letters](https://www.scholarrescuefund.org/wp-content/uploads/assets/gsas-cvs-and-cover-letters.pdf)**
-  Handbook with formatting tips and numerous annotated sample CVs, résumés, and cover letters for PhD students and postdocs applying inside and outside academia.
-- `  ----  ` | 🧰 | **[CV/Resume parser](https://www.open-resume.com/resume-parser/)**
-  Resume parser to check how well your CV/resume will be recognized by automatic systems. Also a free, open-source, resume builder.
-
-### Get in contact
-- `08 min` | 📄 | **[Cover letter for a job or internship position](https://mitcommlab.mit.edu/nse/commkit/cover-letter-for-a-job/)**
-  Advice on cover letters. 
-- `06 min` | 📄 | **[The Commandments of Cover Letter Creation](https://www.sciencemag.org/careers/1996/12/commandments-cover-letter-creation)**
-  Older (1996) but some still applies.
-
-### General 
-- `60+min` | 📚 | **[Career Development Guides](https://www.bwfund.org/career-tools/?career_tool_type=career-development-guides)**
-  Collection of articles on career development. 
-- `60+min` | 📚 | **[Science Careers](https://blog.addgene.org/topic/science-careers)**
-  Posts tagged with "science-careers".
-- `60+min` | 📚 | **[Applying for jobs](https://blog.addgene.org/topic/applying-for-jobs)**
-  Posts tagged with "applying-for-jobs".
 
 
 
@@ -280,7 +237,6 @@
 - `  ----  ` | 🧰 | **[The Data Visualisation Catalogue](https://datavizcatalogue.com/)**
   Guide and library of different data visualization techniques.
 
-
 ### Specific plots
 - `02 min` | 📄 | **[Showing distributions (Box/Dot/Violin)](https://thenode.biologists.com/distribution_plots/education/)**
   Quick help for choosing plots to show data distribution.
@@ -304,6 +260,8 @@
   Advice on better practices for presenting continuous data in small sample size studies.
 - `28 min` | 📄 | **[Creating clear and informative image-based figures](https://doi.org/10.1371/journal.pbio.3001161)**
   Avoid common pitfalls when publishing microscopy images.
+
+
 
 ## Communicate your science
 ### Presentations
@@ -403,18 +361,6 @@
 
 
 ## Writing a paper
-### Abstract
-- `01 min` | 🧵 | **[Abstract advice](https://twitter-thread.com/t/1593209900796383232)**
-  Brief template of what needs to be in an abstract.
-- `02 min` | 📑 | **[How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)**
-  The usual structure of an abstract, shown with one annotated example. 
-- `02 min` | 📄 | **[Writing effective abstracts for methods papers](https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/)**
-  Structure and criteria of a successful abstract.
-- `03 min` | 📄 | **[How to write an abstract](https://jef.works/blog/2019/09/24/how-to-write-an-abstract/)**
-  How to write an effective abstract by answering "why? how? what? so?".
-- `05 min` | 🧵 | **[Writing effective abstracts for methods papers (part 1)](https://twitter-thread.com/t/1508473653113110538)** **[ (part 2)](https://twitter-thread.com/t/1508474832282963977)**
-  Advice for technology/methods papers, but some thoughts apply more generally.
-
 ### General
 - `04 min` | 📄 | **[Writing a scientific paper in four easy steps](https://clauswilke.com/blog/2013/08/29/writing-a-scientific-paper-in-four-easy-steps/)**
   Nearly all scientific papers have the same standard outline. 
@@ -445,6 +391,18 @@
   Preprint manuscript template for Adobe InDesign.
 - `  ----  ` | 🧰 | **[preprint-word-template](https://github.com/chrelli/bioRxiv-word-template)**
   Preprint manuscript template for Microsoft Word or Libre Office.
+
+### Abstract
+- `01 min` | 🧵 | **[Abstract advice](https://twitter-thread.com/t/1593209900796383232)**
+  Brief template of what needs to be in an abstract.
+- `02 min` | 📑 | **[How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)**
+  The usual structure of an abstract, shown with one annotated example. 
+- `02 min` | 📄 | **[Writing effective abstracts for methods papers](https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/)**
+  Structure and criteria of a successful abstract.
+- `03 min` | 📄 | **[How to write an abstract](https://jef.works/blog/2019/09/24/how-to-write-an-abstract/)**
+  How to write an effective abstract by answering "why? how? what? so?".
+- `05 min` | 🧵 | **[Writing effective abstracts for methods papers (part 1)](https://twitter-thread.com/t/1508473653113110538)** **[ (part 2)](https://twitter-thread.com/t/1508474832282963977)**
+  Advice for technology/methods papers, but some thoughts apply more generally.
 
 ### Figure legends
 - `04 min` | 📄 | **[How to craft a figure legend for scientific papers](https://bioturing.medium.com/how-to-craft-a-figure-legend-for-scientific-papers-b26a77fa890)**
@@ -519,6 +477,8 @@
   Insights about review process and publishing from a scientist who worked as associate editor.
 - `04 min` | 📄 | **[End the wasteful tyranny of reviewer experiments](https://www.nature.com/articles/472391a)**
   Arguments to shorten the revision process and reduce reviewer-experiments. 
+- `04 min` | 📄 | **[Guide for constructive peer review](https://deboer.bme.ubc.ca/2025/12/09/guide-for-constructive-peer-review/)**
+  Focus on being constructive in the peer review report. 
 - `04 min` | 📄 | **[How to review a paper](https://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html)**
   Advice on how to review. 
 - `06 min` | 📄 | **[How to Write a Peer Review](https://plos.org/resource/how-to-write-a-peer-review/)**
@@ -540,13 +500,96 @@
 - `60+min` | 📚 | **[Peer Review Toolbox](https://plos.org/resources/for-reviewers)**
   Best practices and tips to build your scientific peer review skillset.
 
-
-
 ### Response to reviewers
 - `05 min` | 📄 | **[How to prepare an article for resubmission](https://clauswilke.com/blog/2014/11/16/how-to-prepare-an-article-for-resubmission/)**
   Handling major revisions and writing the response letter.
 - `08 min` | 📄 | **[Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)**
   "Ten rules" on how to write responses to reviewers.
+
+
+
+## Career
+### Career paths
+- `02 min` | 🧵 | **[What’s it like working in biotech](https://twitter-thread.com/t/1398329690268577801)**
+  Some observations on the industry and differences to academia. 
+- `05 min` | 📄 | **[Career Options for Scientists](http://cshperspectives.cshlp.org/content/9/9/a032755.full)**
+  Career choices outside of academia.
+- `14 min` | 📄 | **[What your PI forgot to tell you: why you actually might want a job running a research lab](http://www.molbiolcell.org/content/28/13/1724.full)**
+  Why being a PI can be a desirable job, conversation between two group leaders.
+- `20 min` | 📄 | **[Job-Seq: The Lowest Throughput Sequencing Technology](https://olgabotvinnik.com/blog/job-seq-the-lowest-throughput-sequencing-technology/)**
+  Blog post about the job search after PhD. 
+- `30 min` | 📄 | **[Postdocs’ advice on pursuing a research career in academia: A qualitative analysis of free-text survey responses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662)**
+  Summary of a survey of postdocs on "Life in Academia and Strategies for Success", US-centric. 
+- `60+min` | 📚 | **[The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170)**
+  Collection of articles on transitioning from academia to industry, covering for instance: why you should, application, interviewing, salary negotiation, and expectations. 
+
+### Choosing an advisor
+- `04 min` | 📄 | **[Choosing a Good Mentor for Scientists](https://blog.addgene.org/choosing-a-good-mentor-for-scientists)**
+  Advice for choosing an advisor for a PhD or postdoctoral lab.
+- `07 min` | 📄 | **[Toxic academic mentors](https://tenureshewrote.wordpress.com/2013/08/12/toxic-academic-mentors/)**
+  How academic bullying looks in practice, how to cope and how to avoid it in the first place.
+- `21 min` | 📄 | **[How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)**
+  A guide for young scientists on how to select a graduate advisor or postdoctoral advisor.
+
+### Finding a PhD position
+- `60+min` | 📚 | **[Awesome Grad School](https://github.com/poloclub/awesome-grad-school)**
+  Advice and guidebook for thriving and surviving Ph.D. and graduate school.
+- `60+min` | 📚 | **[Awesome PhD](https://github.com/edwinsamar/awesome-phd)**
+  Advice, tips and resources to prepare for PhD/grad school.
+- `60+min` | 📚 | **[Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)**
+  Advice for prospective and current PhD students.
+
+### Finding a postdoc position
+- `06 min` | 📄 | **[Finding a lab to do your postdoc](https://docs.google.com/document/d/1-eXl9t95pzH0kZThYVSqxCOAqLkQSxgbZuSfeJmM2kc/edit)**
+  How to approach postdoc applications, perspective from a group leader. 
+- `25 min` | 📄 | **[How to find, apply for, and choose a postdoc](https://ubadahsabbagh.com/guide-to-postdoc.php)**
+  How to choose a lab and apply for postdoc positions.
+- `50 min` | 📑 | **[Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf)**
+  Covering two perspectives: of a postdoc ("Part II: Choosing the best postdoctoral position", 10 min) and of the hiring group leader.
+- `120 min`| 🎥 | **[The Strategic Postdoc](https://www.ibiology.org/the_strategic_postdoc/)**
+  Video course on planning, finding, and negotiating a postdoc that fits your needs and career goals.
+
+### Finding a group leader position
+- `02 min` | 🧵 | **[10 tips for academic (faculty) job application](https://twitter-thread.com/t/1395019187928641541)**
+  A few brief points to consider when applying for faculty position. 
+- `07 min` | 📄 | **[Tips for Getting a Faculty Position](https://blog.addgene.org/tips-for-getting-a-faculty-position?)**
+  Tips on getting a faculty position. 
+- `20 min` | 📄 | **[Tips for negotiating salary and startup for newly-hired tenure-track faculty](https://dynamicecology.wordpress.com/2017/03/01/tips-for-negotiating-salary-and-startup-for-newly-hired-tenure-track-faculty/)**
+  Advice and resources for negotiating salary and startup funds. 
+- `25 min` | 📄 | **[Tips for Young Scientists on the Junior Faculty/Independent Investigator Job Search](http://www.cell.com/neuron/fulltext/S0896-6273(17)30096-X)**
+  Advice on how to get faculty position.
+- `60+min` | 📑 | **[Obtaining a Faculty Position in the Biomedical Sciences](https://blog.addgene.org/hubfs/Getting%20a%20Faculty%20Position%203.4.pdf)**
+  Advice on getting a faculty position including all the steps of the process in detail. 
+
+### Curriculum Vitae or Resume
+- `02 min` | 📄 | **[Tricks to maintain & share a CV with Google Docs](https://carpenter-singh-lab.broadinstitute.org/blog/tricks-for-maintaining-your-cv-resume-with-google-docs-easy-to-edit-immediately-published)**
+  Tricks for maintaining a shareable CV/Resume with Google Docs.
+- `03 min` | 📄 | **[CVs](https://capd.mit.edu/resources/cvs/)**
+  CV format, sections and headings.
+- `04 min` | 📄 | **[CV/Resume](http://mitcommlab.mit.edu/broad/commkit/cvresume/)**
+  Advice on CV/resume.
+- `07 min` | 📄 | **[CV/Resume](https://mitcommlab.mit.edu/nse/commkit/cvresume/)**
+  Advice on CV/resume.
+- `09 min` | 📄 | **[Rules of the Academic CV](https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/)**
+  Expected content of an academic CV. 
+- `12 min` | 📑 | **[CVs and Cover Letters](https://www.scholarrescuefund.org/wp-content/uploads/assets/gsas-cvs-and-cover-letters.pdf)**
+  Handbook with formatting tips and numerous annotated sample CVs, résumés, and cover letters for PhD students and postdocs applying inside and outside academia.
+- `  ----  ` | 🧰 | **[CV/Resume parser](https://www.open-resume.com/resume-parser/)**
+  Resume parser to check how well your CV/resume will be recognized by automatic systems. Also a free, open-source, resume builder.
+
+### Get in contact
+- `08 min` | 📄 | **[Cover letter for a job or internship position](https://mitcommlab.mit.edu/nse/commkit/cover-letter-for-a-job/)**
+  Advice on cover letters. 
+- `06 min` | 📄 | **[The Commandments of Cover Letter Creation](https://www.sciencemag.org/careers/1996/12/commandments-cover-letter-creation)**
+  Older (1996) but some still applies.
+
+### Collections 
+- `60+min` | 📚 | **[Career Development Guides](https://www.bwfund.org/career-tools/?career_tool_type=career-development-guides)**
+  Collection of articles on career development. 
+- `60+min` | 📚 | **[Science Careers](https://blog.addgene.org/topic/science-careers)**
+  Posts tagged with "science-careers".
+- `60+min` | 📚 | **[Applying for jobs](https://blog.addgene.org/topic/applying-for-jobs)**
+  Posts tagged with "applying-for-jobs".
 
 
 
