@@ -85,12 +85,12 @@
 - `06 min` | 📄 | [What’s a failed experiment?](https://kamounlab.medium.com/whats-a-failed-experiment-7ea66fd96f8) - Experimental design and "negative" or inconclusive results.
 - `09 min` | 📄 | [Health tips for research groups](https://www.nature.com/articles/d41586-018-05146-5) - Ideas to make science more productive, rigorous and happy.
 - `09 min` | 📄 | [How Diversity Makes Us Smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) - Diverse teams: better decisions and higher-impact science.
-- `10 min` | 📄 | [How lab heads can learn to lead](https://www.nature.com/articles/d41586-018-05156-3) - Leadership experts on running more effective and supportive research groups.
+- `10 min` | 📄 | [How lab heads can learn to lead](https://www.nature.com/articles/d41586-018-05156-3) - Leadership experts on running more effective groups.
 - `11 min` | 📄 | [The Thrill of Defeat](https://web.archive.org/web/20240914025143/https://nautil.us/the-thrill-of-defeat-235312/) - What history can teach us about open science and being "scooped".
 - `16 min` | 📄 | [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) - Nurturing, collaborative, and people-centered.
 - `16 min` | 📄 | [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567) - Inclusiveness in data science teams, but applies more generally.
-- `20 min` | 📄 | [Ten simple rules to improve academic work–life balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124) - What individuals and the environment can do. 
-- `20 min` | 📄 | [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419) - Proposes better integration between biology and computational sciences.
+- `20 min` | 📄 | [Ten simple rules to improve academic work–life balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124) - For individuals and environment. 
+- `20 min` | 📄 | [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419) - For better integration with biology.
 - `22 min` | 📄 | [Science, narcissism and the quest for visibility](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.14032) - About narcissistic personalities in science.
 - `22 min` | 📑 | [One hundred research rules of the game](https://www.emerald.com/aaaj/article-pdf/32/2/691/11751/aaaj-02-2019-032.pdf) - 100 "rules" for making your research "world class".
 - `26 min` | 📚 | [Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice) [Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581) [Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf) - Three essays, 30+yrs old, some truths and insight into thinking of older generations.
@@ -113,20 +113,20 @@
 - `03 min` | 📄 | [Just quit](https://substack.com/home/post/p-182811585) - Why we should quit projects more often and earlier.
 - `03 min` | 📄 | [Kill Ideas Quickly](https://web.archive.org/web/20230314222643/https://gregglab.neuro.utah.edu/2018/10/01/kill-ideas-quickly-natural-selection-is-why-you-need-to-work-so-hard-as-a-scientist/) - Quickly sorting out bad ideas.
 - `04 min` | 📄 | [The importance of stupidity in scientific research](https://jcs.biologists.org/content/121/11/1771) - Essay on "feeling stupid" when doing research.
-- `05 min` | 📄 | [Make science disruptive again](https://www.nature.com/articles/s41587-023-01736-5) - Include idea-finding and creativity into graduate student programs.
+- `05 min` | 📄 | [Make science disruptive again](https://www.nature.com/articles/s41587-023-01736-5) - Include idea-finding into graduate programs.
 - `08 min` | 📄 | [How to choose a good scientific problem](https://www.ncbi.nlm.nih.gov/pubmed/19782018) - What is a good problem, and how do you choose one?
 - `13 min` | 📄 | [Theory in Biology: Figure 1 or Figure 7?](https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(15)00194-4) - How theory allows us to form hypotheses.
-- `16 min` | 📄 | [Philosophy of Biology: The analysis of living systems...](https://elifesciences.org/articles/56354) - The six categories of experimental techniques.
+- `16 min` | 📄 | [Philosophy of Biology: The analysis of living systems...](https://elifesciences.org/articles/56354) - Six categories of experiments.
 - `60+min` | 📚 | [Night Science articles](https://www.biomedcentral.com/collections/night-science) - Approaches to develop new hypotheses and ideas. 
 - `60+min` | 🎙️ | [Night Science Podcast series](https://nightscience.buzzsprout.com/1744020) - Each episode explores science's creative side with a guest scientist.
 - `120 min`| 🎥 | [Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR) - Course on choosing good research questions, planning projects, and setting goals.
 
 ### Leading a research group
-- `08 min` | 📄 | [How to create a lab-group logo...](https://www.nature.com/articles/d41586-023-02358-2) - A logo to communicate your lab’s research and workplace culture. 
+- `08 min` | 📄 | [How to create a lab-group logo...](https://www.nature.com/articles/d41586-023-02358-2) - To communicate your lab’s research and workplace culture. 
 - `18 min` | 📄 | [Ten Simple Rules to becoming a group leader](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) - Rather ten tricky steps than simple rules. 
 - `18 min` | 📄 | [Becoming a Principal Investigator](https://doi.org/10.1016/j.neuron.2019.08.023) - Lab culture, planning, recruiting and mentoring.
-- `31 min` | 📄 | [Setting Up and Managing a Lab...](https://bmcproc.biomedcentral.com/articles/10.1186/s12919-021-00214-7) - Tips for new group leaders: equipment, negotiations, team building.
-- `47 min` | 📄 | [State of the lab](https://www.evocellnet.com/search/label/state%20of%20the%20lab) - Almost yearly blog posts on running a lab from junior to more consolidated position.
+- `31 min` | 📄 | [Setting Up and Managing a Lab...](https://bmcproc.biomedcentral.com/articles/10.1186/s12919-021-00214-7) - Equipment, negotiations, team building.
+- `47 min` | 📄 | [State of the lab](https://www.evocellnet.com/search/label/state%20of%20the%20lab) - Yearly blog posts on leading a lab, from junior to more consolidated.
 - `50 min` | 📑 | [Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf) - Which postdocs and technicians to hire.
 - `60+min` | 📑 | [Tips for running your own research group](https://cms.wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf) - Funding, hiring and mentoring, etc.
 - `60+min` | 📘 | [Making the Right Moves](http://www.hhmi.org/developing-scientists/making-right-moves) - 200+ pages on applying, management, lab organization, mentorship. 
@@ -135,8 +135,8 @@
 
 ### Lab manual
 - `04 min` | 📄 | [The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w) - A well-crafted lab manual with guidelines and advice can save time, reassure trainees and promote a positive lab culture.
-- `05 min` | 📄 | [How to write a lab handbook](https://thebiologist.rsb.org.uk/biologist-features/how-to-write-a-lab-handbook) - How a good lab handbook can improve your team's science and save time. Includes a meta handbook with twenty common topics.
-- `10 min` | 📄 | [Why every lab needs a handbook](https://elifesciences.org/articles/88853) - A good lab handbook will benefit all the members of a research group.
+- `05 min` | 📄 | [How to write a lab handbook](https://thebiologist.rsb.org.uk/biologist-features/how-to-write-a-lab-handbook) - Includes a meta handbook with twenty common topics.
+- `10 min` | 📄 | [Why every lab needs a handbook](https://elifesciences.org/articles/88853) - It will benefit all the members of a group.
 - `17 min` | 📄 | [The SAFE Labs Handbook...](https://doi.org/10.7554/eLife.108853) - Community-driven handbook with 30 concrete, documented commitments any PI can adopt.
 - `32 min` | 📘 | [Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/) - How Duolingo builds their company, culture, and brand, with key principles.
 
@@ -153,7 +153,7 @@
 - `08 min` | 📑 | [Graphics principles cheat sheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) - A single-page reference sheet for creating effective graphs.
 - `13 min` | 📄 | [Friends don't let friends make...](https://github.com/cxli233/FriendsDontLetFriends) - Which plots to avoid and how to plot it instead.
 - `17 min` | 📄 | [Ten Simple Rules for Better Figures](https://doi.org/10.1371/journal.pcbi.1003833) - Improve figure design and avoid common pitfalls.
-- `17 min` | 📄 | [Ten simple rules for designing graphical abstracts](https://doi.org/10.1371/journal.pcbi.1011789) - Some also applies more generally to conceptual visualizations.
+- `17 min` | 📄 | [Ten simple rules for designing graphical abstracts](https://doi.org/10.1371/journal.pcbi.1011789) - Also applies to concept figures.
 - `19 min` | 📄 | [Reveal, Don’t Conceal](https://doi.org/10.1161/CIRCULATIONAHA.118.037777) - Primer to improve data visualization in publications.
 - `19 min` | 📄 | [Choosing Suitable Color Palettes...](https://doi.org/10.1002/cpz1.1126) - How to choose colors.
 - `22 min` | 📄 | [Community-developed checklists...](https://www.nature.com/articles/s41592-023-01987-9) - For publishing microscopy images and image analyses.
@@ -174,7 +174,7 @@
 - `05 min` | 📄 | (Box/Dot) [Leaving the bar...](https://thenode.biologists.com/leaving-bar-five-steps/research/) - How to construct box & dotplot instead of bar plots.
 - `05 min` | 📄 | (Tables) [How to... tables](https://helenajamborwrites.netlify.app/posts/tables/tabledesign) - How to improve tables.
 - `05 min` | 📄 | (Estimation plots) [What is estimation?](https://www.estimationstats.com/#/background) - Why and how to construct estimation plots.
-- `11 min` | 📄 | (SuperPlots) [Communicating reproducibility and variability](https://doi.org/10.1083/jcb.202001064) - Distribution–reproducibility “SuperPlots”.
+- `11 min` | 📄 | (SuperPlots) [Communicating reproducibility and variability](https://doi.org/10.1083/jcb.202001064) -.
 - `14 min` | 📄 | (Box/Dot) [Beyond Bar and Line Graphs ](https://doi.org/10.1371/journal.pbio.1002128) - Advice on presenting continuous data.
 - `28 min` | 📄 | (Microscopy) [Clear and informative image-based figures](https://doi.org/10.1371/journal.pbio.3001161) - Pitfalls when publishing microscopy images.
 
@@ -191,7 +191,7 @@
 - `05 min` | 📄 | [Structuring a Slide Presentation](https://mitcommlab.mit.edu/nse/commkit/structuring-a-slide-presentation/) - Advice on how to organise slides.
 - `07 min` | 📄 | [How To Give a Good Talk](https://doi.org/10.1016/j.molcel.2009.10.007) - Commentary on how to give a good talk.
 - `09 min` | 📄 | [Some thoughts on how to structure a talk](https://rajlaboratory.blogspot.com/2016/09/some-thoughts-on-how-to-structure-talk.html) - How to structure a talk, advocating narrative structure.
-- `09 min` | 📄 | [Ten Commandments for Giving Talks](https://www.elowitz.caltech.edu/teaching) - General principles and tips (expand the page on the bottom).
+- `09 min` | 📄 | [Ten Commandments for Giving Talks](https://www.elowitz.caltech.edu/teaching) - General principles (expand the page on the bottom).
 - `10 min` | 📄 | [Slideshow](https://mitcommlab.mit.edu/broad/commkit/slideshow/) - Guidelines on building research slides.
 - `10 min` | 📄 | [We need to talk](https://journals.biologists.com/jcs/article/136/7/jcs261147/306217/We-need-to-talk) - Advice on how to compose and deliver a talk.
 - `11 min` | 📑 | [Instantly Better Presentations](https://web.archive.org/web/20220811234728/http://damian.conway.org/IBP.pdf) - Advice for better presentations.
@@ -231,7 +231,7 @@
 
 ## Reading the literature
 ### General
-- `10 min` | 📄 | [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032) - Reading and understanding papers more effectively.
+- `10 min` | 📄 | [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032) - Reading papers more effectively.
 - `60+min` | 📄 | [Following the scientific literature](https://www.weizmann.ac.il/dept/irb/igor-ulitsky/following-scientific-literature-practical-guide-not-just-computational-biologists) - Practical guide for tracking and reading the scientific literature.
 - `  ----  ` | 🧰 | [Zotero](https://www.zotero.org/) - Free reference manager to collect, organize, and cite publications.
 - `  ----  ` | 🧰 | [ZotFile](http://zotfile.com/) - Extension for Zotero for PDF management.
@@ -244,7 +244,7 @@
 - `04 min` | 📑 | [Scientific paper outline](https://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf) - Common outline and editing checklist for scientific papers.
 - `05 min` | 📄 | [Tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) - Minimalist, reader-friendly science writing.
 - `05 min` | 📄 | [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75_HflSkk3zZhBk/edit) - Some examples of making one’s writing more specific.
-- `06 min` | 📄 | [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205) - Summarizing most common advice for writing abstracts, then correlating these parameters with citation counts.
+- `06 min` | 📄 | [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205) - Listing the most common advices, then correlating these with citation counts.
 - `07 min` | 📄 | [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4) - Six experts offer advice on producing a manuscript.
 - `07 min` | 🧵 | [Why academic writing feels so hard](https://threadreaderapp.com/thread/1149305568567472131.html) - Practical thread on setting concrete writing goals and habits.
 - `08 min` | 📄 | [Scientific writing tips](https://www.huber.embl.de/group/posts/writingtips.html) - Concise checklist on structuring, wording, and visualizing scientific papers.
@@ -252,6 +252,7 @@
 - `12 min` | 📄 | [Some Tips for Writing Science](https://doi.org/10.1523/ENEURO.0497-22.2022) - Advice for each section including for structuring the results paragraphs and sentences.
 - `17 min` | 📄 | [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) - Advice on how to structure papers and what to focus on.
 - `18 min` | 📄 | [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - Explains the standard paper structure and how to construct each section.
+
   📑 Suppl figures: [Abstract](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14194316/ECS-01-09-01-Abstract.pdf) · [Introduction](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031579/ECS-01-02-01-Introduction.pdf) · [Methods](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031890/ECS-01-06-01-Materials-and-methods.pdf) · [Results & Discussion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031982/ECS-01-07-01-Results-and-discussion.pdf) · [Conclusion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031994/ECS-01-08-01-Conclusion.pdf)
 - `  ----  ` | 🧰 | [preprint-indesign-template](https://github.com/alicesoragni/preprint_templates) - Preprint manuscript template for Adobe InDesign.
 - `  ----  ` | 🧰 | [preprint-word-template](https://github.com/chrelli/bioRxiv-word-template) - Preprint manuscript template for Microsoft Word or Libre Office.
@@ -261,7 +262,7 @@
 - `02 min` | 📑 | [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - The usual structure of an abstract.
 - `02 min` | 📄 | [Writing effective abstracts for methods papers](https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/) - Structure and criteria of a successful abstract.
 - `03 min` | 📄 | [How to write an abstract](https://jef.works/blog/2019/09/24/how-to-write-an-abstract/) - How to write an effective abstract by answering "why? how? what? so?".
-- `05 min` | 🧵 | [Writing effective abstracts for methods papers (part 1)](https://twitter-thread.com/t/1508473653113110538) [ (part 2)](https://twitter-thread.com/t/1508474832282963977) - Some advice also applies beyond methods papers.
+- `05 min` | 🧵 | [Writing effective abstracts for methods papers (part 1)](https://twitter-thread.com/t/1508473653113110538) [ (part 2)](https://twitter-thread.com/t/1508474832282963977) - Some also applies more generally.
 
 ### Figure legends
 - `04 min` | 📄 | [How to craft a figure legend for scientific papers](https://bioturing.medium.com/how-to-craft-a-figure-legend-for-scientific-papers-b26a77fa890) - Practical tips for writing figure legends.
@@ -297,7 +298,7 @@
 
 
 ## Writing a grant
-- `02 min` | 🧵 | [ERC Starting Grant panelist insights](https://twitter-thread.com/t/1500819473523163136) - ERC Starting Grant panelist explaining how proposals are really evaluated and how to design good proposals.
+- `02 min` | 🧵 | [ERC Starting Grant panelist insights](https://twitter-thread.com/t/1500819473523163136) - How proposals are really evaluated and how to design good proposals.
 - `03 min` | 🧵 | [NIH grant proposal tips](https://twitter-thread.com/t/1377968830287212545) - Tips for writing clear, well-structured, reviewer-friendly NIH grant proposals.
 
 
@@ -311,7 +312,7 @@
 - `08 min` | 📑 | [Simplified Guide to Submitting Your Paper](https://www.cell.com/pb-assets/marketing/multimedia/CrossTalk/TheSimplifiedGuidetoSubmittingYourPaper.pdf) - Advice on Cover Letter and misconceptions.
 
 ### Peer reviewing
-- `02 min` | 🧵 | [My behavior as an author and a reviewer changed because of being an editor. Here is how](https://twitter-thread.com/t/1372586602183163905) - Insights about review process and publishing.
+- `02 min` | 🧵 | [My behavior as an author and a reviewer changed...](https://twitter-thread.com/t/1372586602183163905) - Insights about review process and publishing.
 - `04 min` | 📄 | [End the wasteful tyranny of reviewer experiments](https://www.nature.com/articles/472391a) - Arguments to shorten the revision process.
 - `04 min` | 📄 | [Guide for constructive peer review](https://deboer.bme.ubc.ca/2025/12/09/guide-for-constructive-peer-review/) - Focus on being constructive in the peer review report.
 - `04 min` | 📄 | [How to review a paper](https://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html) - Advice on how to review.
@@ -335,10 +336,10 @@
 ### Career paths
 - `02 min` | 🧵 | [What’s it like working in biotech](https://twitter-thread.com/t/1398329690268577801) - Some observations on the industry and differences to academia.
 - `05 min` | 📄 | [Career Options for Scientists](http://cshperspectives.cshlp.org/content/9/9/a032755.full) - Career choices outside of academia.
-- `14 min` | 📄 | [What your PI forgot to tell you: why you actually might want a job running a research lab](http://www.molbiolcell.org/content/28/13/1724.full) - Why being a PI can be a desirable job, conversation between two group leaders.
+- `14 min` | 📄 | [Why you actually might want a job running a research lab](http://www.molbiolcell.org/content/28/13/1724.full) - Conversation between two group leaders.
 - `20 min` | 📄 | [Job-Seq: The Lowest Throughput Sequencing Technology](https://olgabotvinnik.com/blog/job-seq-the-lowest-throughput-sequencing-technology/) - Job search after PhD.
-- `30 min` | 📄 | [Postdocs’ advice on pursuing a research career in academia: A qualitative analysis of free-text survey responses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662) - Summary of a survey of postdocs on "Life in Academia and Strategies for Success", US-centric.
-- `60+min` | 📚 | [The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170) - Collection of articles on transitioning from academia to industry.
+- `30 min` | 📄 | [Postdocs’ advice on pursuing a research career...](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662) - Summary of postdocs survey, US-centric.
+- `60+min` | 📚 | [The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170) - Collection.
 
 ### Choosing an advisor
 - `04 min` | 📄 | [Choosing a Good Mentor for Scientists](https://blog.addgene.org/choosing-a-good-mentor-for-scientists) - Choosing an advisor for a PhD or postdoctoral lab.
@@ -346,9 +347,9 @@
 - `21 min` | 📄 | [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005) - Selecting a graduate- or postdoctoral advisor.
 
 ### Finding a PhD position
-- `03 min` | 📄 | [Focus on Human Qualities when Choosing PhD Advisor](https://medium.com/polo-club-of-data-science/how-to-choose-phd-advisor-1a6682caf28e) - Things to consider when choosing a group and advisor.
+- `03 min` | 📄 | [Focus on Human Qualities when Choosing PhD Advisor](https://medium.com/polo-club-of-data-science/how-to-choose-phd-advisor-1a6682caf28e) - Things to consider.
 - `05 min` | 📑 | [‘what do I ask/look for’ in a PhD Advisor](https://drive.google.com/file/d/1o2ZTrUQYDXKbMlcmSH8lE-MW5vOX77PR/view) - Overview of possible questions and where to find infos.
-- `19 min` | 📄 | [Questions to Ask a Prospective Ph.D. Advisor](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) - Includes long explanations for Qs that might give idea of relevant issues.
+- `19 min` | 📄 | [Questions to Ask a Prospective Ph.D. Advisor](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) - Includes long explanations of background.
 - `60+min` | 📚 | [Awesome Grad School](https://github.com/poloclub/awesome-grad-school) - Advice and guidebook for thriving and surviving the Ph.D.
 - `60+min` | 📚 | [Awesome PhD](https://github.com/edwinsamar/awesome-phd) - Advice, tips and resources to prepare for PhD/grad school.
 - `60+min` | 📚 | [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice) - Advice for prospective and current PhD students.
@@ -387,7 +388,7 @@
 
 
 ## Collections of resources
-- `60+min` | 📚 | [Science Communication - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) - Papers, emails and CVs, talks, posters, conferences, and teaching.
+- `60+min` | 📚 | [Science Comms - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) - Papers, email, CV, talks, posters, conferences, teaching.
 - `60+min` | 📚 | [Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) - Practical, concrete how-to guides for talks, writing, reviewing, figures, reproducibility, and everyday doing-science skills.
 - `60+min` | 📚 | [Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/) - Scientific writing, publishing, grants, and broader academic career skills from grad school to funding and jobs.
 - `60+min` | 📚 | [Awesome Grad School](https://github.com/poloclub/awesome-grad-school) - Advice and guidebook for thriving and surviving Ph.D.
