@@ -252,7 +252,6 @@
 - `12 min` | 📄 | [Some Tips for Writing Science](https://doi.org/10.1523/ENEURO.0497-22.2022) - Advice for each section including for structuring the results paragraphs and sentences.
 - `17 min` | 📄 | [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) - Advice on how to structure papers and what to focus on.
 - `18 min` | 📄 | [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - Explains the standard paper structure and how to construct each section.
-
   📑 Suppl figures: [Abstract](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14194316/ECS-01-09-01-Abstract.pdf) · [Introduction](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031579/ECS-01-02-01-Introduction.pdf) · [Methods](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031890/ECS-01-06-01-Materials-and-methods.pdf) · [Results & Discussion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031982/ECS-01-07-01-Results-and-discussion.pdf) · [Conclusion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031994/ECS-01-08-01-Conclusion.pdf)
 - `  ----  ` | 🧰 | [preprint-indesign-template](https://github.com/alicesoragni/preprint_templates) - Preprint manuscript template for Adobe InDesign.
 - `  ----  ` | 🧰 | [preprint-word-template](https://github.com/chrelli/bioRxiv-word-template) - Preprint manuscript template for Microsoft Word or Libre Office.
