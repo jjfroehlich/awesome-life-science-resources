@@ -18,10 +18,8 @@ If contributing via Git is too much for you, **please write me at <https://bsky.
 2. **Create a new branch** for your changes.
 3. **Make your edits**:
    - Follow the existing style and format:
-     - Main line:
-       - `` `03 min` | 📄 | **[Title](https://example.com)** ``
-     - Description on the next line, indented by two spaces:
-       - `  One-sentence description.`
+     - `` `03 min` | 📄 | [Title](https://example.com) - One-sentence description.``
+     - The description should end in a full stop and be kept short (try to keep each resource on one line, i.e., title and description together not too long).
    - Use the appropriate icon:
      - 🧵 thread · 📄 article · 📑 article (.pdf) · 📘 book · 📚 collection · 🎥 video · 🎙️ podcast · 🧰 tool
    - Add the estimated reading time using a word counter
