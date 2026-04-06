@@ -80,9 +80,9 @@
 ### General
 - `03 min` | 📄 | [It matters who does science](https://www.science.org/content/blog-post/it-matters-who-does-science) - About seeing scientists as people and about diversity.
 - `05 min` | 🧵 | [The Tao of Cheese](https://twitter-thread.com/t/1432654418437095431) - Words of wisdom for how to navigate science and your career.
-- `05 min` | 📄 | [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - How the output of research can be better evaluated without journal-based metrics.
+- `05 min` | 📄 | [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - Evaluate research without journal-based metrics.
 - `05 min` | 📄 | [Why scientific criticism sometimes needs to hurt](https://daniellakens.blogspot.com/2016/09/why-scientific-criticism-sometimes.html) - The value of getting criticism.
-- `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Strategies to prevent loosing ones identity from overcommitment to work.
+- `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Strategies to prevent loosing identity from overworking.
 - `06 min` | 📄 | [What’s a failed experiment?](https://kamounlab.medium.com/whats-a-failed-experiment-7ea66fd96f8) - Experimental design and "negative" or inconclusive results.
 - `07 min` | 📄 | [You need to make AI guidelines for your lab](https://blekhman.substack.com/p/you-need-to-make-ai-guidelines-for) - Reflection on how to work with ai assistants.
 - `09 min` | 📄 | [🔒︎Health tips for research groups](https://www.nature.com/articles/d41586-018-05146-5) - Ideas to make science more productive, rigorous and happy.
@@ -164,7 +164,7 @@
 - `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)[📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf) - 35+ articles on data viz. 
 - `60+min` | 📘 | [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) - Graphs that reflect the data and look professional.
 - `  ----  ` | 🛠️ | [Color Oracle Software](https://colororacle.org/) - Free color blindness simulator for Windows, Mac and Linux
-- `  ----  ` | 🛠️ | [Default fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md) - Use these figure parameters that satisfy most journals.
+- `  ----  ` | 🛠️ | [Default fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md) - Use these parameters to satisfy most journals.
 - `  ----  ` | 🛠️ | [Figure Guidelines - EMBO Press](https://onlinelibrary.wiley.com/pb-assets/assets/14602075/EMBOPress_Figure_Guidelines.pdf) - Technical requirements and layout dimensions.
 - `  ----  ` | 🛠️ | [Figure Guidelines - Nature](https://www.nature.com/documents/Final_guide_to_authors.pdf) - Technical requirements and layout dimensions.
 - `  ----  ` | 🛠️ | [Find the graphic you need](https://www.data-to-viz.com/) - Classification of all possible chart types.
