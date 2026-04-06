@@ -72,7 +72,6 @@
 - 🎥 video
 - 🎙️ podcast
 - 🛠️ tool, for example a template, database, or app
-- 🔒︎ paywall, but maybe accessible via your institution
 
 
 
