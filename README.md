@@ -82,21 +82,21 @@
 - `05 min` | 🧵 | [The Tao of Cheese](https://twitter-thread.com/t/1432654418437095431) - Words of wisdom for how to navigate science and your career.
 - `05 min` | 📄 | [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - How the output of research can be better evaluated without journal-based metrics.
 - `05 min` | 📄 | [Why scientific criticism sometimes needs to hurt](https://daniellakens.blogspot.com/2016/09/why-scientific-criticism-sometimes.html) - The value of getting criticism.
-- `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Overcommitment to work can lead to loss of identity: three strategies to rediscover oneself.
+- `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Strategies to prevent loosing ones identity from overcommitment to work.
 - `06 min` | 📄 | [What’s a failed experiment?](https://kamounlab.medium.com/whats-a-failed-experiment-7ea66fd96f8) - Experimental design and "negative" or inconclusive results.
 - `07 min` | 📄 | [You need to make AI guidelines for your lab](https://blekhman.substack.com/p/you-need-to-make-ai-guidelines-for) - Reflection on how to work with ai assistants.
 - `09 min` | 📄 | [🔒︎Health tips for research groups](https://www.nature.com/articles/d41586-018-05146-5) - Ideas to make science more productive, rigorous and happy.
 - `09 min` | 📄 | [How Diversity Makes Us Smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) - Diverse teams: better decisions and higher-impact science.
 - `10 min` | 📄 | [🔒︎How lab heads can learn to lead](https://www.nature.com/articles/d41586-018-05156-3) - Leadership experts on running more effective groups.
 - `11 min` | 📄 | [The Thrill of Defeat](https://web.archive.org/web/20240914025143/https://nautil.us/the-thrill-of-defeat-235312/) - What history can teach us about open science and being "scooped".
-- `16 min` | 📄 | [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) - Nurturing, collaborative, and people-centered.
-- `16 min` | 📄 | [Ten simple rules to cultivate belonging in collaborative data science research teams](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567) - Inclusiveness in data science teams, but applies more generally.
+- `16 min` | 📄 | [Ten simple rules towards healthier labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) - Nurturing, collaborative, and people-centered.
+- `16 min` | 📄 | [Ten simple rules to cultivate belonging...](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010567) - Inclusiveness in data science teams, applies generally.
 - `20 min` | 📄 | [Ten simple rules to improve academic work–life balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009124) - For individuals and environment. 
 - `20 min` | 📄 | [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419) - For better integration with biology.
 - `22 min` | 📄 | [Science, narcissism and the quest for visibility](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.14032) - About narcissistic personalities in science.
 - `22 min` | 📑 | [One hundred research rules of the game](https://www.emerald.com/aaaj/article-pdf/32/2/691/11751/aaaj-02-2019-032.pdf) - 100 "rules" for making your research "world class".
 - `26 min` | 📚 | [Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice) [Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581) [Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf) - Three essays, 30+yrs old, some truths and insight into thinking of older generations.
-- `60+min` | 📘 | [🔒︎Managing your Mental Health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2) - Covers tips and tricks but also examines work culture and environments.
+- `60+min` | 📘 | [🔒︎Managing your Mental Health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2) - Gives tips and examines environments.
 - `60+min` | 📚 | [Diversity in Academia](https://diversityinacademia.mystrikingly.com/) - Hub collecting resources on diversity in academia.
 - `60+min` | 📚 | [🔒︎How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq) - Collection of articles for a healthy research environment.
 
@@ -104,11 +104,11 @@
 - `01 min` | 🧵 | [Features of good mentors](https://twitter-thread.com/t/1828578473612603840) - Aspects to consider in good mentoring.
 - `03 min` | 📄 | [How I learned to nurture relationships in academia-and be more kind](https://www.science.org/content/article/how-i-learned-to-nurture-relationships-in-academia-be-more-kind).
 - `05 min` | 📑 | [Mentorship Malpractice](https://faculty.uwmedicine.org/wp-content/uploads/2024/09/Mentorship-Malpractice-JAMA-2016.pdf) - Some stereotypes in bad mentorship and coping strategies.
-- `07 min` | 📄 | [Ten simple rules for developing a mentor–mentee expectations document](https://doi.org/10.1371/journal.pcbi.1005709) - To clarify lab culture, roles, and boundaries.
+- `07 min` | 📄 | [Ten simple rules for mentor–mentee expectations](https://doi.org/10.1371/journal.pcbi.1005709) - Clarify lab culture, roles, and boundaries.
 - `08 min` | 📑 | [Landis Mentoring Award Letter](https://github.com/bernardosabatini/writings/blob/main/Sabatini%20Landis%20Award.pdf) - Thoughts on which principles could help to be a good mentor.
 - `09 min` | 📄 | [On being an advisor to today’s junior scientists](https://doi.org/10.1073/pnas.1704511114) - How advisors can help train and educate. 
 - `11 min` | 📄🛠️ | [Yearly planning meetings: individualized development plans...](https://doi.org/10.1016/j.molcel.2015.04.025) - Using yearly PI–trainee meetings to set goals, give feedback, and support trainees’ research and career development.
-- `19 min` | 📄 | [The Making of a Scientist](https://doi.org/10.1038/2151441a0) - A Nobel Prize awardee on mentorship, and using it to explain connections between Nobel awardees.
+- `19 min` | 📄 | [The Making of a Scientist](https://doi.org/10.1038/2151441a0) - A Nobel Prize awardee on mentorship and "pedigrees".
 - `20 min` | 🎥 | [Precision & Plasticity in Mentoring](https://youtu.be/rTYjbv9zmB0) - Normalizing failure, leading by example, using conflict-management tools, and yearly development meetings.
 
 ### Finding good projects
@@ -132,16 +132,16 @@
 - `47 min` | 📄 | [State of the lab](https://www.evocellnet.com/search/label/state%20of%20the%20lab) - Yearly blog posts on leading a lab, from junior to more consolidated.
 - `50 min` | 📑 | [Staffing the Lab](https://www.bwfund.org/wp-content/uploads/2020/06/staffing-the-lab.pdf) - Which postdocs and technicians to hire.
 - `60+min` | 📑 | [Tips for running your own research group](https://cms.wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf) - Funding, hiring and mentoring, etc.
-- `60+min` | 📘 | [Making the Right Moves](http://www.hhmi.org/developing-scientists/making-right-moves) - 200+ pages on applying, management, lab organization, mentorship. 
-- `60+min` | 📘 | [The Human Side of Lab Leadership](https://zenodo.org/records/19039279) - 60+ pages on hiring, culture, mentorship and performance. Includes forms and questionaires. 
+- `60+min` | 📘 | [Making the Right Moves](http://www.hhmi.org/developing-scientists/making-right-moves) - 200+ pages, applying, management, lab organization, mentorship. 
+- `60+min` | 📘 | [The Human Side of Lab Leadership](https://zenodo.org/records/19039279) - 60+ pages, hiring, mentorship, performance. With forms. 
 - `60+min` | 📚 | [Lab Management Guides](https://www.bwfund.org/career-tools/?career_tool_type=lab-management-guides) - Two lab management guides.
 - `  ----  ` | 🛠️ | [Example group websites](pages/research-group-websites.md) - A collection of noteworthy research group websites. 
 
 ### Lab manual
-- `04 min` | 📄 | [🔒︎The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w) - A well-crafted lab manual with guidelines and advice can save time, reassure trainees and promote a positive lab culture.
+- `04 min` | 📄 | [🔒︎The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w) - Save time, reassure trainees and promote a positive lab culture.
 - `05 min` | 📄 | [How to write a lab handbook](https://thebiologist.rsb.org.uk/biologist-features/how-to-write-a-lab-handbook) - Includes a meta handbook with twenty common topics.
 - `10 min` | 📄 | [Why every lab needs a handbook](https://elifesciences.org/articles/88853) - It will benefit all the members of a group.
-- `17 min` | 📄 | [The SAFE Labs Handbook...](https://doi.org/10.7554/eLife.108853) - Community-driven handbook with 30 concrete, documented commitments any PI can adopt.
+- `17 min` | 📄 | [The SAFE Labs Handbook...](https://doi.org/10.7554/eLife.108853) - 30 documented commitments any PI can use.
 - `32 min` | 📘 | [Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/) - How Duolingo builds their company, culture, and brand, with key principles.
 
 
@@ -161,7 +161,7 @@
 - `19 min` | 📄 | [Choosing Suitable Color Palettes...](https://doi.org/10.1002/cpz1.1126) - How to choose colors.
 - `22 min` | 📄 | [🔒︎Community-developed checklists...](https://www.nature.com/articles/s41592-023-01987-9) - For publishing microscopy images and image analyses.
 - `60+min` | 📚 | [Blog helenajamborwrites](https://helenajamborwrites.netlify.app/) - A collection of how-to's on data visualization and microscope images.
-- `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)[📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf) - Collection of 35+ articles covering different aspects of data visualization. 
+- `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)[📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf) - 35+ articles on data viz. 
 - `60+min` | 📘 | [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) - Graphs that reflect the data and look professional.
 - `  ----  ` | 🛠️ | [Color Oracle Software](https://colororacle.org/) - Free color blindness simulator for Windows, Mac and Linux
 - `  ----  ` | 🛠️ | [Default fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md) - Use these figure parameters that satisfy most journals.
@@ -176,7 +176,7 @@
 - `02 min` | 📄 | (Microscopy) [Microscopic Images 2](https://www.gabrielaplucinska.com/blog/2017/8/15/microscopic-images-2) - Color choices for overlays.
 - `02 min` | 📄 | (Tables) [Tables - data in the spotlight](https://www.gabrielaplucinska.com/blog/2017/10/16/tables) - How to present data from a table.
 - `03 min` | 📄 | (Heatmaps) [Dos and don’ts for a heatmap color scale](https://web.archive.org/web/20210620092420/https://blog.bioturing.com/2018/09/24/heatmap-color-scale/) - Colors of heatmaps.
-- `04 min` | 📄 | (Estimation plots) [🔒︎Moving beyond P values](https://www.nature.com/articles/s41592-019-0470-3) - Plots to move from asking “does it?” to “how much?”.
+- `04 min` | 📄 | (Estimation plots) [🔒︎Moving beyond P values](https://www.nature.com/articles/s41592-019-0470-3) - Move from asking “does it?” to “how much?”.
 - `05 min` | 📄 | (Box/Dot) [Leaving the bar...](https://thenode.biologists.com/leaving-bar-five-steps/research/) - How to construct box & dotplot instead of bar plots.
 - `05 min` | 📄 | (Tables) [How to... tables](https://helenajamborwrites.netlify.app/posts/tables/tabledesign) - How to improve tables.
 - `05 min` | 📄 | (Estimation plots) [What is estimation?](https://www.estimationstats.com/#/background) - Why and how to construct estimation plots.
@@ -251,13 +251,13 @@
 - `04 min` | 📑 | [Scientific paper outline](https://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf) - Common outline and editing checklist for scientific papers.
 - `05 min` | 📄 | [🔒︎Tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) - Minimalist, reader-friendly science writing.
 - `05 min` | 📄 | [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75_HflSkk3zZhBk/edit) - Some examples of making one’s writing more specific.
-- `06 min` | 📄 | [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205) - Listing the most common advices, then correlating these with citation counts.
+- `06 min` | 📄 | [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205) - Listing most common advices.
 - `07 min` | 📄 | [🔒︎How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4) - Six experts offer advice on producing a manuscript.
 - `07 min` | 🧵 | [Why academic writing feels so hard](https://threadreaderapp.com/thread/1149305568567472131.html) - Practical thread on setting concrete writing goals and habits.
 - `08 min` | 📄 | [Scientific writing tips](https://www.huber.embl.de/group/posts/writingtips.html) - Concise checklist on structuring, wording, and visualizing scientific papers.
 - `09 min` | 📄 | [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453) - Planning, structuring, and polishing papers.
-- `12 min` | 📄 | [Some Tips for Writing Science](https://doi.org/10.1523/ENEURO.0497-22.2022) - Advice for each section including for structuring the results paragraphs and sentences.
-- `13 min` | 📄 | [How to write a research paper](https://www.science.org/content/article/how-write-research-paper) - Approaches for writing and overcoming common blocks, from scientists across disciplines.
+- `12 min` | 📄 | [Some Tips for Writing Science](https://doi.org/10.1523/ENEURO.0497-22.2022) - Advice for each section, how to structure paragraphs and sentences.
+- `13 min` | 📄 | [How to write a research paper](https://www.science.org/content/article/how-write-research-paper) - Writing and overcoming blocks, across disciplines.
 - `15 min` | 📄🛠️ | [Manuscript Template with Tips](https://github.com/CapraLab/lab-manuscript-template) - Academic manuscript template with in-line writing tips, LaTeX and Microsoft Word.
 - `17 min` | 📄 | [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) - Advice on how to structure papers and what to focus on.
 - `18 min` | 📄 | [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - Explains the standard paper structure and how to construct each section.
@@ -306,8 +306,8 @@
 
 
 ## Writing a grant
-- `02 min` | 🧵 | [ERC Starting Grant panelist insights](https://twitter-thread.com/t/1500819473523163136) - How proposals are really evaluated and how to design good proposals.
-- `03 min` | 🧵 | [NIH grant proposal tips](https://twitter-thread.com/t/1377968830287212545) - Tips for writing clear, well-structured, reviewer-friendly NIH grant proposals.
+- `02 min` | 🧵 | [ERC Starting Grant panelist insights](https://twitter-thread.com/t/1500819473523163136) - How grants are evaluated and how to design good proposals.
+- `03 min` | 🧵 | [NIH grant proposal tips](https://twitter-thread.com/t/1377968830287212545) - Writing clear, well-structured, reviewer-friendly NIH grant proposals.
 - `05 min` | 📄 | [🔒︎A funding adviser’s guide to writing a great grant application](https://www.nature.com/articles/d41586-023-02756-6) - Many are obvious, but unsuccessful applications fail with at least one of these.
 
 
@@ -346,14 +346,14 @@
 - `02 min` | 🧵 | [What’s it like working in biotech](https://twitter-thread.com/t/1398329690268577801) - Some observations on the industry and differences to academia.
 - `05 min` | 📄 | [Career Options for Scientists](http://cshperspectives.cshlp.org/content/9/9/a032755.full) - Career choices outside of academia.
 - `05 min` | 📄 | [Leaving Ph.D.?](https://www.scisteps.org/in-sights/sci-tips/leaving-ph-d) - When considering to "quit" the PhD.
-- `14 min` | 📄 | [Why you actually might want a job running a research lab](http://www.molbiolcell.org/content/28/13/1724.full) - Conversation between two group leaders.
+- `14 min` | 📄 | [Why you actually might want a job running a lab](http://www.molbiolcell.org/content/28/13/1724.full) - Conversation between two group leaders.
 - `20 min` | 📄 | [Job-Seq: The Lowest Throughput Sequencing Technology](https://olgabotvinnik.com/blog/job-seq-the-lowest-throughput-sequencing-technology/) - Job search after PhD.
 - `30 min` | 📄 | [Postdocs’ advice on pursuing a research career...](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662) - Summary of postdocs survey, US-centric.
 - `60+min` | 📚 | [The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170) - Collection.
 
 ### Choosing an advisor
 - `04 min` | 📄 | [Choosing a Good Mentor for Scientists](https://blog.addgene.org/choosing-a-good-mentor-for-scientists) - Choosing an advisor for a PhD or postdoctoral lab.
-- `06 min` | 📄 | [Power imbalance and power abuse in academia](https://www.scisteps.org/in-sights/sci-tips/power-imbalance-and-power-abuse-in-academia) - Which environments to avoid as a list of negative examples.
+- `06 min` | 📄 | [Power imbalance and power abuse in academia](https://www.scisteps.org/in-sights/sci-tips/power-imbalance-and-power-abuse-in-academia) - Which environments to avoid.
 - `07 min` | 📄 | [Toxic academic mentors](https://tenureshewrote.wordpress.com/2013/08/12/toxic-academic-mentors/) - Academic bullying in practice, how to cope and how to avoid it.
 - `21 min` | 📄 | [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005) - Selecting a graduate- or postdoctoral advisor.
 
@@ -390,7 +390,7 @@
 - `  ----  ` | 🛠️ | [CV/Resume parser](https://www.open-resume.com/resume-parser/) - Check how your resume will be recognized by automatic company systems. 
 
 ### Get in contact
-- `02 min` | 📄 | [Cover letter for non-academic jobs](https://gsonet.org/karrierewissen/tips-for-successful-cover-letter/) - Tips for non-academic job cover letter, also relevant for academic jobs.
+- `02 min` | 📄 | [Cover letter for non-academic jobs](https://gsonet.org/karrierewissen/tips-for-successful-cover-letter/) - Tips for (non-)academic job cover letters.
 - `08 min` | 📄 | [Cover letter for a job or internship position](https://mitcommlab.mit.edu/nse/commkit/cover-letter-for-a-job/) - Advice on cover letters.
 - `06 min` | 📄 | [The Commandments of Cover Letter Creation](https://www.sciencemag.org/careers/1996/12/commandments-cover-letter-creation) - Older (1996) but some still applies.
 
@@ -405,7 +405,7 @@
 - `60+min` | 📘 | [🔒︎Mastering Your PhD](https://link.springer.com/book/10.1007/978-3-031-11417-5) - Covers many of the topics that one confronts during a PhD.
 - `60+min` | 📚 | [Science Comms - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) - Papers, CV, talks, posters, conferences, and more.
 - `60+min` | 📚 | [Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) - How-to guides for talks, writing, reviewing, figures, and more.
-- `60+min` | 📚 | [Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/) - Scientific writing, publishing, grants, and broader academic career skills.
+- `60+min` | 📚 | [Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/) - Scientific writing, publishing, grants, and career skills.
 - `60+min` | 📚 | [Awesome Grad School](https://github.com/poloclub/awesome-grad-school) - Advice and guidebook for thriving and surviving Ph.D.
 - `60+min` | 📚 | [Awesome PhD](https://github.com/edwinsamar/awesome-phd) - Advice, tips and resources to prepare for PhD/grad school.
 - `60+min` | 📚 | [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice) - Advice for prospective and current PhD students.
