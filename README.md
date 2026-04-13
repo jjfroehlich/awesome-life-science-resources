@@ -80,7 +80,7 @@
 ### General
 - `03 min` | 📄 | [It matters who does science](https://www.science.org/content/blog-post/it-matters-who-does-science) - About seeing scientists as people and about diversity.
 - `05 min` | 🧵 | [The Tao of Cheese](https://twitter-thread.com/t/1432654418437095431) - Words of wisdom for how to navigate science and your career.
-- `05 min` | 📄 | [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - Evaluate research without journal-based metrics.
+- `05 min` | 📄 | [Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - Evaluate research without journal-based metrics.
 - `05 min` | 📄 | [Why scientific criticism sometimes needs to hurt](https://daniellakens.blogspot.com/2016/09/why-scientific-criticism-sometimes.html) - The value of getting criticism.
 - `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Strategies to prevent loosing identity from overworking.
 - `06 min` | 📄 | [What’s a failed experiment?](https://kamounlab.medium.com/whats-a-failed-experiment-7ea66fd96f8) - Experimental design and "negative" or inconclusive results.
@@ -122,7 +122,7 @@
 - `16 min` | 📄 | [Philosophy of Biology: The analysis of living systems...](https://elifesciences.org/articles/56354) - Six categories of experiments.
 - `60+min` | 📚 | [Night Science articles](https://www.biomedcentral.com/collections/night-science) - Approaches to develop new hypotheses and ideas. 
 - `60+min` | 🎙️ | [Night Science Podcast series](https://nightscience.buzzsprout.com/1744020) - Each episode explores science's creative side with a guest scientist.
-- `120 min`| 🎥 | [Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR) - Course on choosing good research questions, planning projects, and setting goals.
+- `120 min`| 🎥 | [Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR) - Choosing research questions and project management.
 
 ### Leading a research group
 - `08 min` | 📄 | [🔒︎How to create a lab-group logo...](https://www.nature.com/articles/d41586-023-02358-2) - To communicate your lab’s research and workplace culture. 
@@ -138,11 +138,11 @@
 - `  ----  ` | 🛠️ | [Example group websites](pages/research-group-websites.md) - A collection of noteworthy research group websites. 
 
 ### Lab manual
-- `04 min` | 📄 | [🔒︎The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w) - Save time, reassure trainees and promote a positive lab culture.
+- `04 min` | 📄 | [🔒︎The key to a happy lab life is in the manual](https://www.nature.com/articles/d41586-018-06167-w) - Save time and promote a positive lab culture.
 - `05 min` | 📄 | [How to write a lab handbook](https://thebiologist.rsb.org.uk/biologist-features/how-to-write-a-lab-handbook) - Includes a meta handbook with twenty common topics.
 - `10 min` | 📄 | [Why every lab needs a handbook](https://elifesciences.org/articles/88853) - It will benefit all the members of a group.
 - `17 min` | 📄 | [The SAFE Labs Handbook...](https://doi.org/10.7554/eLife.108853) - 30 documented commitments any PI can use.
-- `32 min` | 📘 | [Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/) - How Duolingo builds their company, culture, and brand, with key principles.
+- `32 min` | 📘 | [Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/) - How Duolingo builds their company, culture, and brand.
 
 
 
@@ -182,7 +182,7 @@
 - `05 min` | 📄 | (Estimation plots) [What is estimation?](https://www.estimationstats.com/#/background) - Why and how to construct estimation plots.
 - `11 min` | 📄 | (SuperPlots) [Communicating reproducibility and variability](https://doi.org/10.1083/jcb.202001064) -.
 - `14 min` | 📄 | (Box/Dot) [Beyond Bar and Line Graphs ](https://doi.org/10.1371/journal.pbio.1002128) - Advice on presenting continuous data.
-- `28 min` | 📄 | (Microscopy) [Clear and informative image-based figures](https://doi.org/10.1371/journal.pbio.3001161) - Pitfalls when publishing microscopy images.
+- `28 min` | 📄 | (Microscopy) [Clear and informative image-based figures](https://doi.org/10.1371/journal.pbio.3001161) - Publishing microscopy images.
 
 
 
@@ -232,7 +232,7 @@
 - `06 min` | 📄 | [Poster](https://mitcommlab.mit.edu/nse/commkit/poster/) - Advice on structure, design, and delivery.
 - `14 min` | 📄 | [How to design an award-winning poster](https://www.animateyour.science/post/How-to-design-an-award-winning-conference-poster) - Advice on good structure and design.
 - `17 min` | 📄 | [How do you make your first scientific poster?](https://www.sciencegraphicdesign.com/blog/how-do-you-make-your-first-scientific-poster) - With visual explanations.
-- `19 min` | 🎥 | [How to create a better research poster](https://www.youtube.com/watch?v=1RwJbhkCA58) - How to improve poster session experience with better poster design.
+- `19 min` | 🎥 | [How to create a better research poster](https://www.youtube.com/watch?v=1RwJbhkCA58) - Better poster session experiences with better poster design.
 
 
 
@@ -290,7 +290,7 @@
 ### Intro
 - `09 min` | 📄 | [How to write a PhD thesis introduction](https://www.thephdpeople.com/structuring-your-phd/how-to-write-a-phd-thesis-introduction/) - Background, gap, and questions.
 - `09 min` | 📄 | [How to Write Significance of the Study](https://filipiknow.net/significance-of-the-study-examples/) - With examples across different fields.
-- `16 min` | 📄 | [How To Write A Dissertation Introduction](https://gradcoach.com/dissertation-thesis-introduction-chapter/) - Step-by-step recipe (background → gap → aims → significance → limitations → structure) with examples.
+- `16 min` | 📄 | [How To Write A Dissertation Introduction](https://gradcoach.com/dissertation-thesis-introduction-chapter/) - Step-by-step recipe.
 
 ### Discussion
 - `05 min` | 📄 | [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/) - Interpret what your results mean and why they matter.
@@ -332,7 +332,7 @@
 - `09 min` | 📄 | [Writing reviews of academic papers](https://github.com/jtleek/reviews) - What you have to do when reviewing a publication.
 - `11 min` | 📄 | [The 6 “Be's” to Success](https://doi.org/10.1373/clinchem.2013.208280) - Framework for structured, specific, constructive, and respectful reviews.
 - `11 min` | 📑 | [COPE Ethical Guidelines for Peer Reviewers](https://publicationethics.org/media/237/download?attachment) - Guidance on ethical peer review.
-- `24 min` | 📄 | [Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://doi.org/10.7554/eLife.48175) - With concrete guidance on how to detect and fix them.
+- `24 min` | 📄 | [Ten common statistical mistakes to watch out for ...](https://doi.org/10.7554/eLife.48175) - How to detect and fix them.
 - `60+min` | 📚 | [Peer Review Toolbox](https://plos.org/resources/for-reviewers) - Tips to build your peer review skillset.
 
 ### Response to reviewers
@@ -414,7 +414,7 @@
 - `60+min` | 📚 | [CommKit – BE](https://mitcommlab.mit.edu/be/use-the-commkit/) - Communicating technical information in different formats.
 - `60+min` | 📚 | [Help, I'm a Scientist!](https://helpimascientist.com/) - A resource by scientists who've been in your shoes.
 - `60+min` | 📚 | [Ten Simple Rules - PLOS](https://collections.plos.org/collection/ten-simple-rules/) - All “Ten Simple Rules” articles.
-- `60+min` | 🎥 | [Life in Academia](https://www.youtube.com/c/mrillig/videos) - Youtube channel covering career, culture, communication, and more, 17k+ subscribers. 
+- `60+min` | 🎥 | [Life in Academia](https://www.youtube.com/c/mrillig/videos) - Channel on career, culture, communication, and more. 
 
 
 
