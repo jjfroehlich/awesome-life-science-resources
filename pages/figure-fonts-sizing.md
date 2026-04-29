@@ -8,7 +8,7 @@ Use these settings when you design figures from scratch. They will be compatible
 Work in vector graphics programs (Inkscape, Adobe Illustrator). 
 
 - **Typeface**  
-  - Use **Arial** or **Helvetica** for all labels.  
+  - Use **Arial** for all labels.  
   - Use **Symbol** for Greek letters.  
   - Use **Courier** (or another monospaced font) for nucleotide / amino-acid sequences.  
   - **Embed fonts** in PDF/EPS exports.
