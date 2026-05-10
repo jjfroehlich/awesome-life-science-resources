@@ -1,4 +1,7 @@
-# Awesome Life Science Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="./pages/awesome-life-science-resources_banner.jpg" width="900" alt="Title banner" />
+</p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences. This can be improved so please [contribute](contributing.md).
 
@@ -120,7 +123,7 @@
 - `08 min` | 📄 | [How to choose a good scientific problem](https://www.ncbi.nlm.nih.gov/pubmed/19782018) - What is a good problem, and how do you choose one?
 - `13 min` | 📄 | [Theory in Biology: Figure 1 or Figure 7?](https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(15)00194-4) - How theory allows us to form hypotheses.
 - `16 min` | 📄 | [Philosophy of Biology: The analysis of living systems...](https://elifesciences.org/articles/56354) - Six categories of experiments.
-- `60+min` | 📚 | [Night Science articles](https://www.biomedcentral.com/collections/night-science) - Approaches to develop new hypotheses and ideas. 
+- `60+min` | 📚 | [Night Science articles](https://night-science.org/home/learn/read/) - Approaches to develop new hypotheses and ideas. 
 - `60+min` | 🎙️ | [Night Science Podcast series](https://nightscience.buzzsprout.com/1744020) - Each episode explores science's creative side with a guest scientist.
 - `120 min`| 🎥 | [Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR) - Choosing research questions and project management.
 
@@ -149,7 +152,7 @@
 ## Data visualization
 ### General
 - `03 min` | 📄 | [🔒︎Axes, ticks and grids](https://www.nature.com/articles/nmeth.2337) - Make navigational elements distinct and unobtrusive.
-- `03 min` | 📄 | [Negative space](https://www.nature.com/articles/nmeth0111-5) - About negative space and how to use it.
+- `03 min` | 📄 | [🔒︎Negative space](https://www.nature.com/articles/nmeth0111-5) - About negative space and how to use it.
 - `05 min` | 📑 | [Guide to designing conceptual figures](https://www.nature.com/documents/natrev-artworkguide.pdf) - Guiding principles for conceptual visualizations.
 - `05 min` | 📄 | [What to consider when choosing colors...](https://www.datawrapper.de/blog/colors) - Essentials of choosing colors.
 - `06 min` | 📄 | [Same Stats, Different Graphs](https://www.autodesk.com/research/publications/same-stats-different-graphs) - How summary statistics can have different underlying distributions.
@@ -161,7 +164,7 @@
 - `19 min` | 📄 | [Choosing Suitable Color Palettes...](https://doi.org/10.1002/cpz1.1126) - How to choose colors.
 - `22 min` | 📄 | [🔒︎Community-developed checklists...](https://www.nature.com/articles/s41592-023-01987-9) - For publishing microscopy images and image analyses.
 - `60+min` | 📚 | [Blog helenajamborwrites](https://helenajamborwrites.netlify.app/) - A collection of how-to's on data visualization and microscope images.
-- `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)[📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf) - 35+ articles on data viz. 
+- `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html) - 35+ articles on data viz [📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf). 
 - `60+min` | 📘 | [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) - Graphs that reflect the data and look professional.
 - `  ----  ` | 🛠️ | [Color Oracle Software](https://colororacle.org/) - Free color blindness simulator for Windows, Mac and Linux
 - `  ----  ` | 🛠️ | [Default fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md) - Use these parameters to satisfy most journals.
