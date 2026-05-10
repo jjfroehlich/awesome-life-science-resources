@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./pages/awesome-life-science-resources_banner.jpg" width="900" alt="Title banner" />
 </p>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences. This can be improved so please [contribute](contributing.md).
