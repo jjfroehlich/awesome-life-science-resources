@@ -6,7 +6,11 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 </p>
 
-> An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences. This can be improved so please [contribute](contributing.md).
+> An “awesome”-style, curated list of resources for graduate students, postdocs, and group leaders in the life sciences.
+
+> This can be improved so please [contribute with resources](contributing.md).
+
+> Agent-readable companion: a distilled set of agent skills based on principles and patterns from these and additional resources is available at [agent-skills-for-academic-research](https://github.com/jjfroehlich/agent-skills-for-academic-research).
 
 
 
