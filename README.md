@@ -10,9 +10,6 @@
 
 > This can be improved so please [contribute with resources](contributing.md).
 
-> Agent-readable companion: a distilled set of agent skills based on principles and patterns from these and additional resources is available at [agent-skills-for-academic-research](https://github.com/jjfroehlich/agent-skills-for-academic-research).
-
-
 
 ## Contents
 
@@ -52,9 +49,10 @@
   - [Acknowledgements](#acknowledgements)
 
 - [Writing a grant](#writing-a-grant)
+  - [General](#general-5)
 
 - [Publishing](#publishing)
-  - [General](#general-5)
+  - [General](#general-6)
   - [Peer reviewing](#peer-reviewing)
   - [Response to reviewers](#response-to-reviewers)
 
@@ -65,10 +63,11 @@
   - [Finding a postdoc position](#finding-a-postdoc-position)
   - [Finding a group leader position](#finding-a-group-leader-position)
   - [Curriculum Vitae or Resume](#curriculum-vitae-or-resume)
+  - [Letter of recommendation](#letter-of-recommendation)
   - [Get in contact](#get-in-contact)
   - [Collections](#collections)
 
-- [Collections of general resources](#collections-of-general-resources)
+- [Other collections](#other-collections)
 
 - [Contribute](#contribute)
 
@@ -89,12 +88,15 @@
 ## Work Culture & Management
 ### General
 - `03 min` | 📄 | [It matters who does science](https://www.science.org/content/blog-post/it-matters-who-does-science) - About seeing scientists as people and about diversity.
+- `03 min` | 📄 | [🔒︎ Academia is just a job](https://www.nature.com/articles/s41562-025-02376-2) - Mentally separating the science from the stressful aspects of academia can reduce stress. [Table1](https://osf.io/p6yut/files/mgq6x) concrete measures to lower workplace stress for individuals, groups, and institutions.
+- `04 min` | 📄 | [Decisions, decisions)](https://doi.org/10.1016/S0960-9822(02)00400-1) - About hiring decisions.
 - `05 min` | 🧵 | [The Tao of Cheese](https://twitter-thread.com/t/1432654418437095431) - Words of wisdom for how to navigate science and your career.
 - `05 min` | 📄 | [Declaration on Research Assessment (DORA)](https://sfdora.org/read/) - Evaluate research without journal-based metrics.
 - `05 min` | 📄 | [Why scientific criticism sometimes needs to hurt](https://daniellakens.blogspot.com/2016/09/why-scientific-criticism-sometimes.html) - The value of getting criticism.
 - `06 min` | 📄 | [🔒︎A person before a PhD](https://www.nature.com/articles/d41586-020-00306-y) - Strategies to prevent loosing identity from overworking.
 - `06 min` | 📄 | [What’s a failed experiment?](https://kamounlab.medium.com/whats-a-failed-experiment-7ea66fd96f8) - Experimental design and "negative" or inconclusive results.
 - `07 min` | 📄 | [You need to make AI guidelines for your lab](https://blekhman.substack.com/p/you-need-to-make-ai-guidelines-for) - Reflection on how to work with ai assistants.
+- `07 min` | 📄 | [Early-career researchers want empathy](https://www.science.org/content/article/early-career-researchers-want-empathy-their-supervisors) - Supervisory practices that help and hurt, based on a survey of 2,600 trainees. [Preprint](https://doi.org/10.64898/2026.05.05.722947) with the full survey results.
 - `09 min` | 📄 | [🔒︎Health tips for research groups](https://www.nature.com/articles/d41586-018-05146-5) - Ideas to make science more productive, rigorous and happy.
 - `09 min` | 📄 | [How Diversity Makes Us Smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) - Diverse teams: better decisions and higher-impact science.
 - `10 min` | 📄 | [🔒︎How lab heads can learn to lead](https://www.nature.com/articles/d41586-018-05156-3) - Leadership experts on running more effective groups.
@@ -106,7 +108,9 @@
 - `22 min` | 📄 | [Science, narcissism and the quest for visibility](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.14032) - About narcissistic personalities in science.
 - `22 min` | 📑 | [One hundred research rules of the game](https://www.emerald.com/aaaj/article-pdf/32/2/691/11751/aaaj-02-2019-032.pdf) - 100 "rules" for making your research "world class".
 - `26 min` | 📚 | [Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice) [Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581) [Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf) - Three essays, 30+yrs old, some truths and insight into thinking of older generations.
+- `60+min` | 📘 | [Collaboration & Team Science: Field Guide](https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf) - A "field guide" for members and leaders of research teams.
 - `60+min` | 📘 | [🔒︎Managing your Mental Health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2) - Gives tips and examines environments.
+- `60+min` | 📘 | [🔒︎Mastering Your PhD](https://link.springer.com/book/10.1007/978-3-031-11417-5) - Covers many of the topics that one confronts during a PhD.
 - `60+min` | 📚 | [Diversity in Academia](https://diversityinacademia.mystrikingly.com/) - Hub collecting resources on diversity in academia.
 - `60+min` | 📚 | [🔒︎How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq) - Collection of articles for a healthy research environment.
 
@@ -116,6 +120,7 @@
 - `05 min` | 📑 | [Mentorship Malpractice](https://faculty.uwmedicine.org/wp-content/uploads/2024/09/Mentorship-Malpractice-JAMA-2016.pdf) - Some stereotypes in bad mentorship and coping strategies.
 - `07 min` | 📄 | [Ten simple rules for mentor–mentee expectations](https://doi.org/10.1371/journal.pcbi.1005709) - Clarify lab culture, roles, and boundaries.
 - `08 min` | 📑 | [Landis Mentoring Award Letter](https://github.com/bernardosabatini/writings/blob/main/Sabatini%20Landis%20Award.pdf) - Thoughts on which principles could help to be a good mentor.
+- `09 min` | 📄 | [A guide to mentoring undergraduates in the lab](https://www.nature.com/articles/nnano.2013.237) -  Specific advice on advising and mentoring undergraduates. 
 - `09 min` | 📄 | [On being an advisor to today’s junior scientists](https://doi.org/10.1073/pnas.1704511114) - How advisors can help train and educate. 
 - `11 min` | 📄🛠️ | [Yearly planning meetings: individualized development plans...](https://doi.org/10.1016/j.molcel.2015.04.025) - Using yearly PI–trainee meetings to set goals, give feedback, and support trainees’ research and career development.
 - `19 min` | 📄 | [The Making of a Scientist](https://doi.org/10.1038/2151441a0) - A Nobel Prize awardee on mentorship and "pedigrees".
@@ -135,6 +140,7 @@
 - `120 min`| 🎥 | [Planning Your Scientific Journey](https://www.youtube.com/playlist?list=PL5zi65Byv2hixvkQ3ljvCpbhCqt307KtR) - Choosing research questions and project management.
 
 ### Leading a research group
+- `03 min` | 📄 | [When I stopped...](https://www.science.org/content/article/when-i-stopped-trying-have-all-answers-my-lab-members-thrived) - Stop having all the answers so the team can learn to find their own.
 - `08 min` | 📄 | [🔒︎How to create a lab-group logo...](https://www.nature.com/articles/d41586-023-02358-2) - To communicate your lab’s research and workplace culture. 
 - `18 min` | 📄 | [Ten Simple Rules to becoming a group leader](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) - Rather ten tricky steps than simple rules. 
 - `18 min` | 📄 | [Becoming a Principal Investigator](https://doi.org/10.1016/j.neuron.2019.08.023) - Lab culture, planning, recruiting and mentoring.
@@ -201,12 +207,13 @@
 - `01 min` | 🧵 | [What makes a good story](https://twitter-thread.com/t/1717921467646550355) - How to recognize that you need more conflict in your story. 
 - `02 min` | 🧵 | [McKinsey presentation framework](https://twitter-thread.com/t/1550816018158833667) - Ideas for structure and design of presentations.
 - `03 min` | 📄 | [🔒︎Prioritize the needs of the audience...](https://www.nature.com/articles/d41586-018-06021-z) - A few mental exercises to keep the audience in mind.
+- `04 min` | 📄 | [🔒︎ How to give a bad talk](https://www.nature.com/articles/s41568-026-00954-8) - Common misconceptions and advice on how to fix them.
 - `05 min` | 📄 | [Delivery and Q&A](https://mitcommlab.mit.edu/nse/commkit/delivery-and-qa/) - Tips on delivering a talk.
 - `05 min` | 📄 | [🔒︎How to tell a compelling story in presentations](https://www.nature.com/articles/d41586-021-03603-2) - Main finding in title, and use ‘but’.
 - `05 min` | 📑 | [The David Attenborough style...](https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf?dl=0) - Handout encouraging a storytelling style.
 - `05 min` | 📄 | [Structuring a Slide Presentation](https://mitcommlab.mit.edu/nse/commkit/structuring-a-slide-presentation/) - Advice on how to organise slides.
 - `07 min` | 📄 | [How To Give a Good Talk](https://doi.org/10.1016/j.molcel.2009.10.007) - Commentary on how to give a good talk.
-- `09 min` | 📄 | [Some thoughts on how to structure a talk](https://rajlaboratory.blogspot.com/2016/09/some-thoughts-on-how-to-structure-talk.html) - How to structure a talk, advocating narrative structure.
+- `09 min` | 📄 | [Some thoughts on how to structure a talk](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science/how-to-give-a-talk/blog-post-on-how-to-structure-a-talk) - How to structure a talk, advocating narrative structure.
 - `09 min` | 📄 | [Ten Commandments for Giving Talks](https://www.elowitz.caltech.edu/teaching) - General principles (expand the page on the bottom).
 - `10 min` | 📄 | [Slideshow](https://mitcommlab.mit.edu/broad/commkit/slideshow/) - Guidelines on building research slides.
 - `10 min` | 📄 | [We need to talk](https://journals.biologists.com/jcs/article/136/7/jcs261147/306217/We-need-to-talk) - Advice on how to compose and deliver a talk.
@@ -316,9 +323,12 @@
 
 
 ## Writing a grant
+### General 
 - `02 min` | 🧵 | [ERC Starting Grant panelist insights](https://twitter-thread.com/t/1500819473523163136) - How grants are evaluated and how to design good proposals.
 - `03 min` | 🧵 | [NIH grant proposal tips](https://twitter-thread.com/t/1377968830287212545) - Writing clear, well-structured, reviewer-friendly NIH grant proposals.
 - `05 min` | 📄 | [🔒︎A funding adviser’s guide to writing a great grant application](https://www.nature.com/articles/d41586-023-02756-6) - Many are obvious, but unsuccessful applications fail with at least one of these.
+- `07 min` | 📄 | [🔒︎It takes time and a team to win grants](https://www.nature.com/articles/nj7524-153a) - Advice on grant writing.
+
 
 
 
@@ -399,6 +409,9 @@
 - `12 min` | 📑 | [CVs and Cover Letters](https://www.scholarrescuefund.org/wp-content/uploads/assets/gsas-cvs-and-cover-letters.pdf) - Handbook with formatting tips and many annotated examples.
 - `  ----  ` | 🛠️ | [CV/Resume parser](https://www.open-resume.com/resume-parser/) - Check how your resume will be recognized by automatic company systems. 
 
+### Letter of Recommendation
+- `05 min` | 📄 | [Dear me, I am awesome...](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science/navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself) - How to write a letter of rec for yourself.
+
 ### Get in contact
 - `02 min` | 📄 | [Cover letter for non-academic jobs](https://gsonet.org/karrierewissen/tips-for-successful-cover-letter/) - Tips for (non-)academic job cover letters.
 - `08 min` | 📄 | [Cover letter for a job or internship position](https://mitcommlab.mit.edu/nse/commkit/cover-letter-for-a-job/) - Advice on cover letters.
@@ -411,21 +424,20 @@
 
 
 
-## Collections of general resources
-- `60+min` | 📘 | [🔒︎Mastering Your PhD](https://link.springer.com/book/10.1007/978-3-031-11417-5) - Covers many of the topics that one confronts during a PhD.
-- `60+min` | 📚 | [Science Comms - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) - Papers, CV, talks, posters, conferences, and more.
-- `60+min` | 📚 | [Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) - How-to guides for talks, writing, reviewing, figures, and more.
-- `60+min` | 📚 | [Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/) - Scientific writing, publishing, grants, and career skills.
+## Other collections
 - `60+min` | 📚 | [Awesome Grad School](https://github.com/poloclub/awesome-grad-school) - Advice and guidebook for thriving and surviving Ph.D.
 - `60+min` | 📚 | [Awesome PhD](https://github.com/edwinsamar/awesome-phd) - Advice, tips and resources to prepare for PhD/grad school.
 - `60+min` | 📚 | [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice) - Advice for prospective and current PhD students.
+- `60+min` | 📚 | [CommKit – BE](https://mitcommlab.mit.edu/be/use-the-commkit/) - Communicating technical information in different formats.
 - `60+min` | 📚 | [CommKit – Broad](https://mitcommlab.mit.edu/broad/use-the-commkit/) - Communicating technical information in different formats.
 - `60+min` | 📚 | [CommKit – NSE](https://mitcommlab.mit.edu/nse/commkit/) - Communicating technical information in different formats.
-- `60+min` | 📚 | [CommKit – BE](https://mitcommlab.mit.edu/be/use-the-commkit/) - Communicating technical information in different formats.
 - `60+min` | 📚 | [Help, I'm a Scientist!](https://helpimascientist.com/) - A resource by scientists who've been in your shoes.
+- `60+min` | 📚 | [Nurturing Science - Uri Alon](https://www.weizmann.ac.il/mcb/alon/nurturing-science) - Collection of resources. 
+- `60+min` | 📚 | [Science Comms - Nature Scitable](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/) - Papers, CV, talks, posters, conferences, and more.
 - `60+min` | 📚 | [Ten Simple Rules - PLOS](https://collections.plos.org/collection/ten-simple-rules/) - All “Ten Simple Rules” articles.
+- `60+min` | 📚 | [Tools for Science - Arjun Raj and lab](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) - How-to guides for talks, writing, reviewing, figures, and more.
+- `60+min` | 📚 | [Virtual Books - Claus Wilke](https://clauswilke.com/virtualbooks/) - Scientific writing, publishing, grants, and career skills.
 - `60+min` | 🎥 | [Life in Academia](https://www.youtube.com/c/mrillig/videos) - Channel on career, culture, communication, and more. 
-
 
 
 
