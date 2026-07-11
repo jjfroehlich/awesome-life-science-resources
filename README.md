@@ -10,6 +10,8 @@
 
 > This can be improved so please [contribute with resources](contributing.md).
 
+> Read an [interview about this project](pages/interview.md).
+
 
 ## Contents
 
@@ -285,7 +287,7 @@
 ### Abstract
 - `01 min` | 🧵 | [Abstract advice](https://twitter-thread.com/t/1593209900796383232) - Brief template of what needs to be in an abstract.
 - `02 min` | 📑 | [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - The usual structure of an abstract.
-- `02 min` | 📄 | [Writing effective abstracts for methods papers](https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/) - Structure and criteria of a successful abstract.
+- `02 min` | 📄 | [Abstracts](https://mitcommlab.mit.edu/be/commkit/journal-article-abstract/) - Structure and criteria of a successful abstract.
 - `03 min` | 📄 | [How to write an abstract](https://jef.works/blog/2019/09/24/how-to-write-an-abstract/) - How to write an effective abstract by answering "why? how? what? so?".
 - `05 min` | 🧵 | [Writing effective abstracts for methods papers (part 1)](https://twitter-thread.com/t/1508473653113110538) [ (part 2)](https://twitter-thread.com/t/1508474832282963977) - Some also applies more generally.
 
