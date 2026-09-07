@@ -410,6 +410,7 @@
 - `09 min` | 📄 | [Rules of the Academic CV](https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/) - Expected content of an academic CV.
 - `12 min` | 📑 | [CVs and Cover Letters](https://www.scholarrescuefund.org/wp-content/uploads/assets/gsas-cvs-and-cover-letters.pdf) - Handbook with formatting tips and many annotated examples.
 - `  ----  ` | 🛠️ | [CV/Resume parser](https://www.open-resume.com/resume-parser/) - Check how your resume will be recognized by automatic company systems. 
+- `  ----  ` | 🛠️ | [ResumeAI](https://withresumeai.com/) - AI resume builder and free ATS checker; State of ATS 2026 research on employer portals.
 
 ### Letter of Recommendation
 - `05 min` | 📄 | [Dear me, I am awesome...](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science/navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself) - How to write a letter of rec for yourself.
