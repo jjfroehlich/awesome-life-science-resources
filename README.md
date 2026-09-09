@@ -144,6 +144,7 @@
 ### Leading a research group
 - `03 min` | 📄 | [When I stopped...](https://www.science.org/content/article/when-i-stopped-trying-have-all-answers-my-lab-members-thrived) - Stop having all the answers so the team can learn to find their own.
 - `08 min` | 📄 | [🔒︎How to create a lab-group logo...](https://www.nature.com/articles/d41586-023-02358-2) - To communicate your lab’s research and workplace culture. 
+- `09 min` | 📄 | [🔒︎Twenty-two easy ways to power up your lab meetings](https://www.nature.com/articles/d41586-026-02037-y) - Ideas to improve lab meetings.
 - `18 min` | 📄 | [Ten Simple Rules to becoming a group leader](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) - Rather ten tricky steps than simple rules. 
 - `18 min` | 📄 | [Becoming a Principal Investigator](https://doi.org/10.1016/j.neuron.2019.08.023) - Lab culture, planning, recruiting and mentoring.
 - `31 min` | 📄 | [Setting Up and Managing a Lab...](https://bmcproc.biomedcentral.com/articles/10.1186/s12919-021-00214-7) - Equipment, negotiations, team building.
@@ -182,7 +183,7 @@
 - `60+min` | 📚 | [🔒︎A view of every "Points of View" column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html) - 35+ articles on data viz [📑.pdf's](https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf). 
 - `60+min` | 📘 | [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) - Graphs that reflect the data and look professional.
 - `  ----  ` | 🛠️ | [Color Oracle Software](https://colororacle.org/) - Free color blindness simulator for Windows, Mac and Linux
-- `  ----  ` | 🛠️ | [Default fonts, sizing, dimensions, linewidth...](pages/figure-fonts-sizing.md) - Use these parameters to satisfy most journals.
+- `  ----  ` | 🛠️ | [Research figures: formatting](pages/figure-fonts-sizing.md) - Practical targets for figure fonts, sizes, dimensions and export.
 - `  ----  ` | 🛠️ | [Figure Guidelines - EMBO Press](https://onlinelibrary.wiley.com/pb-assets/assets/14602075/EMBOPress_Figure_Guidelines.pdf) - Technical requirements and layout dimensions.
 - `  ----  ` | 🛠️ | [Figure Guidelines - Nature](https://www.nature.com/documents/Final_guide_to_authors.pdf) - Technical requirements and layout dimensions.
 - `  ----  ` | 🛠️ | [Find the graphic you need](https://www.data-to-viz.com/) - Classification of all possible chart types.
@@ -281,6 +282,7 @@
 - `17 min` | 📄 | [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) - Advice on how to structure papers and what to focus on.
 - `18 min` | 📄 | [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - Explains the standard paper structure and how to construct each section.
   📑 Suppl figures: [Abstract](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14194316/ECS-01-09-01-Abstract.pdf) · [Introduction](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031579/ECS-01-02-01-Introduction.pdf) · [Methods](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031890/ECS-01-06-01-Materials-and-methods.pdf) · [Results & Discussion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031982/ECS-01-07-01-Results-and-discussion.pdf) · [Conclusion](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14031994/ECS-01-08-01-Conclusion.pdf)
+- `  ----  ` | 🛠️ | [Research papers: lengths](pages/journal-text-lengths.md) - Practical targets for word counts, section lengths and figure counts.
 - `  ----  ` | 🛠️ | [preprint-indesign-template](https://github.com/alicesoragni/preprint_templates) - Preprint manuscript template for Adobe InDesign.
 - `  ----  ` | 🛠️ | [preprint-word-template](https://github.com/chrelli/bioRxiv-word-template) - Preprint manuscript template for Microsoft Word or Libre Office.
 
@@ -372,6 +374,7 @@
 - `20 min` | 📄 | [Job-Seq: The Lowest Throughput Sequencing Technology](https://olgabotvinnik.com/blog/job-seq-the-lowest-throughput-sequencing-technology/) - Job search after PhD.
 - `30 min` | 📄 | [Postdocs’ advice on pursuing a research career...](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250662) - Summary of postdocs survey, US-centric.
 - `60+min` | 📚 | [The World’s Most Comprehensive Resource for Scientists Transitioning to Industry](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_07_03/caredit.a1400170) - Collection.
+- `  ----  ` | 🛠️ | [Explore PhD Careers](https://www.explorephdcareers.com/) - Possible job titles you might look for.
 
 ### Choosing an advisor
 - `04 min` | 📄 | [Choosing a Good Mentor for Scientists](https://blog.addgene.org/choosing-a-good-mentor-for-scientists) - Choosing an advisor for a PhD or postdoctoral lab.

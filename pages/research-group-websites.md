@@ -40,6 +40,7 @@
 - [Reilly](https://www.reilly-lab.com/)
 - [Ries](https://rieslab.de/)
 - [Sanders](https://www.sanders.science/)
+- [Schreiber](https://programmable-genomics.github.io/)
 - [Sebe-Pedros](https://www.sebepedroslab.org/)
 - [Segura](https://seguralab.duke.edu/)
 - [Shalek](https://shaleklab.com/)

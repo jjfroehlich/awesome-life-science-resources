@@ -1,4 +1,6 @@
-# Brief advice on figures: fonts, sizing, dimensions, linewidth etc. 
+# Research figures: practical formatting targets
+
+Practical starting points aiming to suit most journals. Check the chosen journal's requirements before submission.
 
 ---
 
