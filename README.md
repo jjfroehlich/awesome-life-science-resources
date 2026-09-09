@@ -110,7 +110,7 @@
 - `22 min` | 📄 | [Science, narcissism and the quest for visibility](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.14032) - About narcissistic personalities in science.
 - `22 min` | 📑 | [One hundred research rules of the game](https://www.emerald.com/aaaj/article-pdf/32/2/691/11751/aaaj-02-2019-032.pdf) - 100 "rules" for making your research "world class".
 - `26 min` | 📚 | [Modest Advice for Graduate Students ('87)](https://stearnslab.yale.edu/modest-advice) [Acynical Reply ('87)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/20166581) [Pragmatic Rebuttal ('94)](https://www.kevintshoemaker.net/pdf/Witz_grad_advice.pdf) - Three essays, 30+yrs old, some truths and insight into thinking of older generations.
-- `60+min` | 📘 | [Collaboration & Team Science: Field Guide](https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf) - A "field guide" for members and leaders of research teams.
+- `60+min` | 📘 | [Collaboration & Team Science: Field Guide](https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf) - Field guide for members and leaders.
 - `60+min` | 📘 | [🔒︎Managing your Mental Health during your PhD](https://link.springer.com/book/10.1007/978-3-031-14194-2) - Gives tips and examines environments.
 - `60+min` | 📘 | [🔒︎Mastering Your PhD](https://link.springer.com/book/10.1007/978-3-031-11417-5) - Covers many of the topics that one confronts during a PhD.
 - `60+min` | 📚 | [Diversity in Academia](https://diversityinacademia.mystrikingly.com/) - Hub collecting resources on diversity in academia.
@@ -122,7 +122,7 @@
 - `05 min` | 📑 | [Mentorship Malpractice](https://faculty.uwmedicine.org/wp-content/uploads/2024/09/Mentorship-Malpractice-JAMA-2016.pdf) - Some stereotypes in bad mentorship and coping strategies.
 - `07 min` | 📄 | [Ten simple rules for mentor–mentee expectations](https://doi.org/10.1371/journal.pcbi.1005709) - Clarify lab culture, roles, and boundaries.
 - `08 min` | 📑 | [Landis Mentoring Award Letter](https://github.com/bernardosabatini/writings/blob/main/Sabatini%20Landis%20Award.pdf) - Thoughts on which principles could help to be a good mentor.
-- `09 min` | 📄 | [A guide to mentoring undergraduates in the lab](https://www.nature.com/articles/nnano.2013.237) -  Specific advice on advising and mentoring undergraduates. 
+- `09 min` | 📄 | [A guide to mentoring undergraduates in the lab](https://www.nature.com/articles/nnano.2013.237) -  Advice on advising and mentoring undergrads. 
 - `09 min` | 📄 | [On being an advisor to today’s junior scientists](https://doi.org/10.1073/pnas.1704511114) - How advisors can help train and educate. 
 - `11 min` | 📄🛠️ | [Yearly planning meetings: individualized development plans...](https://doi.org/10.1016/j.molcel.2015.04.025) - Using yearly PI–trainee meetings to set goals, give feedback, and support trainees’ research and career development.
 - `19 min` | 📄 | [The Making of a Scientist](https://doi.org/10.1038/2151441a0) - A Nobel Prize awardee on mentorship and "pedigrees".
