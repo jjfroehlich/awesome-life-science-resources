@@ -1,12 +1,16 @@
 # Contributing
 
-Thank you! 🎉  
-
 ## What We're Looking For
 
 - Content that’s relevant to the topics in this Awesome List or to extend it.
 - Useful articles, frameworks, tools, or other resources.
 - Respectful discussion, thoughtful suggestions, and constructive feedback. 
+
+## What We Don’t Accept
+
+- Broken links or duplicates.
+- Spam, self-promotion, or low-quality content.
+- Commercial resources (shops, portfolios, paid services, etc.).
 
 ## Quick Option
 
@@ -45,12 +49,6 @@ Before you submit, please ensure:
 - [ ] The entry follows the exact format used in the README.
 - [ ] The list remains sorted by reading time within that subsection.
 - [ ] You have not added multiple links purely to promote a single source.
-
-## What We Don’t Accept
-
-- Broken links or duplicates.
-- Spam, self-promotion, or low-quality content.
-- Commercial resources (shops, portfolios, paid services, etc.).
 
 ## Communication
 
